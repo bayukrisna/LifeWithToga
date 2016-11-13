@@ -1,5 +1,7 @@
 package id.sch.smktelkom_mlg.project.xiirpl108172635.lifewithtoga.adapter;
 
+import android.content.Context;
+import android.net.Uri;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -19,9 +21,11 @@ import id.sch.smktelkom_mlg.project.xiirpl108172635.lifewithtoga.model.Toga;
 public class TogaAdapter extends RecyclerView.Adapter<TogaAdapter.ViewHolder> {
 
     ArrayList<Toga> togalist;
+    ITogaAdapter mITogaAdapter;
 
-    public TogaAdapter(ArrayList<Toga> togalist) {
+    public TogaAdapter(Context context, ArrayList<Toga> togalist) {
         this.togalist = togalist;
+        mITogaAdapter = (ITogaAdapter) context;
     }
 
     @Override
@@ -36,7 +40,7 @@ public class TogaAdapter extends RecyclerView.Adapter<TogaAdapter.ViewHolder> {
         Toga toga = togalist.get(position);
         holder.tvJudul.setText(toga.judul);
         holder.tvDeskripsi.setText(toga.deskripsi);
-        holder.ivFoto.setImageDrawable(toga.foto);
+        holder.ivFoto.setImageURI(Uri.parse(toga.foto));
 
     }
 
@@ -45,6 +49,10 @@ public class TogaAdapter extends RecyclerView.Adapter<TogaAdapter.ViewHolder> {
         if (togalist != null)
             return togalist.size();
         return 0;
+    }
+
+    public interface ITogaAdapter {
+        void doClick(int pos);
     }
 
     public class ViewHolder extends RecyclerView.ViewHolder {
@@ -57,6 +65,12 @@ public class TogaAdapter extends RecyclerView.Adapter<TogaAdapter.ViewHolder> {
             ivFoto = (ImageView) itemView.findViewById(R.id.imageView);
             tvJudul = (TextView) itemView.findViewById(R.id.textViewJudul);
             tvDeskripsi = (TextView) itemView.findViewById(R.id.textViewDeskripsi);
+            itemView.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    mITogaAdapter.doClick(getAdapterPosition());
+                }
+            });
         }
     }
 }
