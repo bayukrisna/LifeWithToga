@@ -13,47 +13,34 @@
 
 
     <ImageView
-        android:id="@+id/imageView13"
+        android:id="@+id/body"
         android:layout_width="119dp"
         android:layout_height="165dp"
-        android:layout_above="@+id/imageView12"
+        android:layout_above="@+id/legUnder"
         android:layout_centerHorizontal="true"
-        app:srcCompat="@drawable/body2" />
+        app:layout_heightPercent="30.9%"
+        app:layout_widthPercent="32.8%"
+        app:srcCompat="@drawable/body" />
 
     <ImageView
-        android:id="@+id/imageView12"
-        android:layout_width="180dp"
-        android:layout_height="190dp"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="78dp"
-        app:srcCompat="@drawable/leg" />
-
-    <ImageView
-        android:id="@+id/imageView14"
+        android:id="@+id/handRight"
         android:layout_width="100dp"
         android:layout_height="125dp"
-        android:layout_alignTop="@+id/imageView13"
-        android:layout_marginTop="19dp"
-        android:layout_toLeftOf="@+id/imageView13"
-        android:layout_toStartOf="@+id/imageView13"
-        app:srcCompat="@drawable/hand2" />
-
-    <ImageView
-        android:id="@+id/imageView15"
-        android:layout_width="100dp"
-        android:layout_height="125dp"
-        android:layout_alignTop="@+id/imageView14"
-        android:layout_toEndOf="@+id/imageView13"
-        android:layout_toRightOf="@+id/imageView13"
+        android:layout_alignTop="@+id/handLeft"
+        android:layout_toEndOf="@+id/body"
+        android:layout_toRightOf="@+id/body"
+        app:layout_heightPercent="25%"
+        app:layout_widthPercent="28%"
         app:srcCompat="@drawable/hand" />
 
     <ImageView
-        android:id="@+id/imageView2"
+        android:id="@+id/headUp"
         android:layout_width="60dp"
         android:layout_height="70dp"
-        android:layout_above="@+id/imageView13"
+        android:layout_above="@+id/body"
         android:layout_centerHorizontal="true"
+        app:layout_heightPercent="13%"
+        app:layout_widthPercent="18%"
         app:srcCompat="@drawable/head" />
 
     <ImageButton
@@ -73,4 +60,27 @@
         android:layout_toLeftOf="@+id/imageButton"
         android:layout_toStartOf="@+id/imageButton"
         app:srcCompat="@drawable/ic_play_arrow_black_24dp" />
+
+    <ImageView
+        android:id="@+id/handLeft"
+        android:layout_width="100dp"
+        android:layout_height="125dp"
+        android:layout_alignTop="@+id/body"
+        android:layout_marginTop="11dp"
+        android:layout_toLeftOf="@+id/body"
+        android:layout_toStartOf="@+id/body"
+        app:layout_heightPercent="25%"
+        app:layout_widthPercent="28%"
+        app:srcCompat="@drawable/hand2" />
+
+    <ImageView
+        android:id="@+id/legUnder"
+        android:layout_width="180dp"
+        android:layout_height="190dp"
+        android:layout_above="@+id/imageButton2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="34dp"
+        app:layout_heightPercent="36%"
+        app:layout_widthPercent="50%"
+        app:srcCompat="@drawable/leg" />
 </android.support.percent.PercentRelativeLayout>
