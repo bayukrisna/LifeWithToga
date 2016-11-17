@@ -16,58 +16,41 @@
   -->
 <resources>
     <string-array name="places">
-        <item>Palais Garnie</item>
-        <item>Piazza del Duomo</item>
-        <item>Manhattan</item>
-        <item>Senso-ji</item>
-        <item>Sultan Ahmed Mosque</item>
-        <item>Table Mountain</item>
+        <item>Maag</item>
+        <item>Masuk Angin</item>
+        <item>Diare</item>
+        <item>Sembelit</item>
+        <item>Muntaber</item>
+        <item>Cacingan</item>
     </string-array>
     <string-array name="place_desc">
-        <item>The Palais Garnier which locates in Paris was built from 1861 for
-        the Paris Opera.
+        <item>Maag atau radang lambung atau tukak lambung adalah gejala penyakit yang menyerang lambung dikarenakan terjadi luka atau peradangan pada lambung yang menyebabkan sakit, mulas, dan perih pada perut.
         </item>
-        <item>Piazza del Duomo the cathedral which locates in Florence.</item>
-        <item>Manhattan is the district in New York City</item>
-        <item>Senso-ji is the Shrine locates in Asakusa Tokyo</item>
+        <item>Masuk angin adalah suatu "penyakit" yang disebabkan karena berkumpulnya gas yang tidak merata di dalam tubuh. Masuk Angin diyakini menjadi penyakit yang nyata, namun saat ini belum ada bukti medis untuk mendukung klaim ini. Penyakit ini mirip influenza karena gejala dan penyebabnya hampir sama.</item>
+        <item>Diare merupakan kondisi yang ditandai dengan encernya tinja yang dikeluarkan dengan frekuensi buang air besar (BAB) yang lebih sering dibandingkan dengan biasanya. Pada umumnya, diare terjadi akibat konsumsi makanan atau minuman yang terkontaminasi bakteri, virus, atau parasit.</item>
+        <item>Sembelit adalah adalah kondisi di mana seseorang buang air besar kurang dari tiga kali seminggu. Setiap orang memiliki kebiasaan buang air besar yang berbeda. Ada orang yang buang air besar setiap hari, namun ada juga yang setiap dua hari. Namun jika sulit atau jarang buang air besar, berarti Anda mengalami sembelit.</item>
         <item>Sultan Ahmed Mosque is mosque locates in Istabul, Turkey</item>
         <item>Table Mountain is mountain and park locates in Cape Town, South Africa.</item>
     </string-array>
     <string-array name="place_details">
-        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-        deserunt mollit anim id est laborum.
+        <item>sering muntah, Anda menjadi sulit menelan dan mengalami penurunan berat badan, serta jika Anda dan telah menginjak berusia 55 tahun ke atas.
         </item>
-        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-        deserunt mollit anim id est laborum.
+        <item>Tubuh terasa kedinginan tidak karuan, cegukan, perut terasa kembung, dan menggigil.
         </item>
-        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-        deserunt mollit anim id est laborum.
+        <item>Gejala diare bermacam-macam, dimulai dari yang hanya merasakan sakit perut singkat dengan tinja yang tidak terlalu encer hingga ada yang mengalami kram perut dengan tinja yang sangat encer. Pada kasus diare parah, kemungkinan penderitanya juga akan mengalami demam dan kram perut hebat.
         </item>
-        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-        deserunt mollit anim id est laborum.
+        <item>Jarang buang air besar, atau kurang dari sekali sehari "\n" Sulit buang air besar ,Kram otot perut ,Perut terasa berat,Sering buang gas atau kentut
+Lidah berlendir
+Sakit kepala
+Kehilangan nafsu makan
+Sakit pada paha atau betis
+Hipertensi atau tekanan darah tinggi
+Mual
+Vertigo
+Jantung berbebar-debar atau palpitasi
+Kantuk
         </item>
-        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-        deserunt mollit anim id est laborum.
+        <item>Wajah agak pucat, lesu dan kurang bergairah, Kurus dan perut agak buncit, Berat badan tidak naik-naik meski nafsu makan tidak berkurang, Pada anak(bayi) tampak gelisah dimalam hari dan sering-garuk pantat (bagian anus),Sering mengalami gangguan lambung, mulas, diare atau sulit buang air besar
         </item>
         <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
         eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
@@ -78,18 +61,207 @@
         </item>
     </string-array>
     <string-array name="place_locations">
-        <item>8 Rue Scribe, 75009 Paris, France</item>
-        <item>Piazza del Capitolo - 50122 Florence</item>
-        <item>New York City</item>
-        <item>2-3-1 Asakusa, Taitō-ku, Tokyo, Japan</item>
+        <item>Ramuan yang sering dimanfaatkan terbuat dari daun jambu biji. Siapkan 9 lembar daun jambu biji, rebus dan campur dengan 1,5 liter air. Air rebusan tadi bisa anda minum 3 kali sehari. Maag akan berangsur menghilang seiring asalkan anda menjalani terapi rebusan daun biji ini secara teratur dan konsisten.</item>
+        <item>Parut dulu jahe secukupnya, kemudian rebus sampai mendidih dan saring. Agar wedang jahe tak terlalu pedas, kamu bisa menambahkan air perasan lemon dan gula batu. Jika ingin lebih nikmat lagi, konsumsi wedang jahe bersama dengan pisang rebus atau camilan kesukaanmu lainnya.</item>
+        <item>Buah jambu biji ini juga dapat mengatasi Diare dan tidak hanya buahnya saja Daunnya pun dapat juga mengatasi diare. Cara mengkonsumsinya dengan memakan pucuk daun jambu biji dan dicampur dengan garam dapur. Secara langsung Obat tradisional ini akan cepat menghentikan terjadinya sakit perut atau diare.</item>
+        <item>Setengah genggam daun keji beling segar dicuci hingga bersih. Kemudian rebus dengan dua gelas air sampai tersisa satu gelas. Saring dan minum.</item>
         <item>At Meydanı No:7, 34122 Fatih/İstanbul, Turkey</item>
         <item>Cape Town, South Africa</item>
     </string-array>
     <array name="places_picture">
-        <item>@drawable/a</item>
-        <item>@drawable/b</item>
-        <item>@drawable/c</item>
-        <item>@drawable/d</item>
+        <item>@drawable/kunyit</item>
+        <item>@drawable/jahe</item>
+        <item>@drawable/jambu</item>
+        <item>@drawable/kejibeling</item>
+        <item>@drawable/e</item>
+        <item>@drawable/f</item>
+    </array>
+
+
+    <string-array name="judulkepala">
+        <item>Kepala sakit</item>
+        <item>Kepala manja</item>
+        <item>Kepala terkilir</item>
+        <item>Kepala patah</item>
+        <item>Kepala patah</item>
+        <item>Kepala gatal</item>
+    </string-array>
+    <string-array name="definisikepala">
+        <item>Maag atau radang lambung atau tukak lambung adalah gejala penyakit yang menyerang lambung dikarenakan terjadi luka atau peradangan pada lambung yang menyebabkan sakit, mulas, dan perih pada perut.
+        </item>
+        <item>Masuk angin adalah suatu "penyakit" yang disebabkan karena berkumpulnya gas yang tidak merata di dalam tubuh. Masuk Angin diyakini menjadi penyakit yang nyata, namun saat ini belum ada bukti medis untuk mendukung klaim ini. Penyakit ini mirip influenza karena gejala dan penyebabnya hampir sama.</item>
+        <item>Diare merupakan kondisi yang ditandai dengan encernya tinja yang dikeluarkan dengan frekuensi buang air besar (BAB) yang lebih sering dibandingkan dengan biasanya. Pada umumnya, diare terjadi akibat konsumsi makanan atau minuman yang terkontaminasi bakteri, virus, atau parasit.</item>
+        <item>Sembelit adalah adalah kondisi di mana seseorang buang air besar kurang dari tiga kali seminggu. Setiap orang memiliki kebiasaan buang air besar yang berbeda. Ada orang yang buang air besar setiap hari, namun ada juga yang setiap dua hari. Namun jika sulit atau jarang buang air besar, berarti Anda mengalami sembelit.</item>
+        <item>Sultan Ahmed Mosque is mosque locates in Istabul, Turkey</item>
+        <item>Table Mountain is mountain and park locates in Cape Town, South Africa.</item>
+    </string-array>
+    <string-array name="gejalakepala">
+        <item>sering muntah, Anda menjadi sulit menelan dan mengalami penurunan berat badan, serta jika Anda dan telah menginjak berusia 55 tahun ke atas.
+        </item>
+        <item>Tubuh terasa kedinginan tidak karuan, cegukan, perut terasa kembung, dan menggigil.
+        </item>
+        <item>Gejala diare bermacam-macam, dimulai dari yang hanya merasakan sakit perut singkat dengan tinja yang tidak terlalu encer hingga ada yang mengalami kram perut dengan tinja yang sangat encer. Pada kasus diare parah, kemungkinan penderitanya juga akan mengalami demam dan kram perut hebat.
+        </item>
+        <item>Jarang buang air besar, atau kurang dari sekali sehari "\n" Sulit buang air besar ,Kram otot perut ,Perut terasa berat,Sering buang gas atau kentut
+Lidah berlendir
+Sakit kepala
+Kehilangan nafsu makan
+Sakit pada paha atau betis
+Hipertensi atau tekanan darah tinggi
+Mual
+Vertigo
+Jantung berbebar-debar atau palpitasi
+Kantuk
+        </item>
+        <item>Wajah agak pucat, lesu dan kurang bergairah, Kurus dan perut agak buncit, Berat badan tidak naik-naik meski nafsu makan tidak berkurang, Pada anak(bayi) tampak gelisah dimalam hari dan sering-garuk pantat (bagian anus),Sering mengalami gangguan lambung, mulas, diare atau sulit buang air besar
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+    </string-array>
+    <string-array name="obatkepala">
+        <item>Ramuan yang sering dimanfaatkan terbuat dari daun jambu biji. Siapkan 9 lembar daun jambu biji, rebus dan campur dengan 1,5 liter air. Air rebusan tadi bisa anda minum 3 kali sehari. Maag akan berangsur menghilang seiring asalkan anda menjalani terapi rebusan daun biji ini secara teratur dan konsisten.</item>
+        <item>Parut dulu jahe secukupnya, kemudian rebus sampai mendidih dan saring. Agar wedang jahe tak terlalu pedas, kamu bisa menambahkan air perasan lemon dan gula batu. Jika ingin lebih nikmat lagi, konsumsi wedang jahe bersama dengan pisang rebus atau camilan kesukaanmu lainnya.</item>
+        <item>Buah jambu biji ini juga dapat mengatasi Diare dan tidak hanya buahnya saja Daunnya pun dapat juga mengatasi diare. Cara mengkonsumsinya dengan memakan pucuk daun jambu biji dan dicampur dengan garam dapur. Secara langsung Obat tradisional ini akan cepat menghentikan terjadinya sakit perut atau diare.</item>
+        <item>Setengah genggam daun keji beling segar dicuci hingga bersih. Kemudian rebus dengan dua gelas air sampai tersisa satu gelas. Saring dan minum.</item>
+        <item>At Meydanı No:7, 34122 Fatih/İstanbul, Turkey</item>
+        <item>Cape Town, South Africa</item>
+    </string-array>
+    <array name="gambarkepala">
+        <item>@drawable/kunyit</item>
+        <item>@drawable/jahe</item>
+        <item>@drawable/jambu</item>
+        <item>@drawable/kejibeling</item>
+        <item>@drawable/e</item>
+        <item>@drawable/f</item>
+    </array>
+
+
+    <string-array name="judultangan">
+        <item>Tangan gatal</item>
+        <item>Tangan sakit</item>
+        <item>Tangan terkilir</item>
+        <item>Tangan Putus</item>
+        <item>Tangan lebay</item>
+        <item>Tangan manja</item>
+    </string-array>
+    <string-array name="definisitangan">
+        <item>Maag atau radang lambung atau tukak lambung adalah gejala penyakit yang menyerang lambung dikarenakan terjadi luka atau peradangan pada lambung yang menyebabkan sakit, mulas, dan perih pada perut.
+        </item>
+        <item>Masuk angin adalah suatu "penyakit" yang disebabkan karena berkumpulnya gas yang tidak merata di dalam tubuh. Masuk Angin diyakini menjadi penyakit yang nyata, namun saat ini belum ada bukti medis untuk mendukung klaim ini. Penyakit ini mirip influenza karena gejala dan penyebabnya hampir sama.</item>
+        <item>Diare merupakan kondisi yang ditandai dengan encernya tinja yang dikeluarkan dengan frekuensi buang air besar (BAB) yang lebih sering dibandingkan dengan biasanya. Pada umumnya, diare terjadi akibat konsumsi makanan atau minuman yang terkontaminasi bakteri, virus, atau parasit.</item>
+        <item>Sembelit adalah adalah kondisi di mana seseorang buang air besar kurang dari tiga kali seminggu. Setiap orang memiliki kebiasaan buang air besar yang berbeda. Ada orang yang buang air besar setiap hari, namun ada juga yang setiap dua hari. Namun jika sulit atau jarang buang air besar, berarti Anda mengalami sembelit.</item>
+        <item>Sultan Ahmed Mosque is mosque locates in Istabul, Turkey</item>
+        <item>Table Mountain is mountain and park locates in Cape Town, South Africa.</item>
+    </string-array>
+    <string-array name="gejalatangan">
+        <item>sering muntah, Anda menjadi sulit menelan dan mengalami penurunan berat badan, serta jika Anda dan telah menginjak berusia 55 tahun ke atas.
+        </item>
+        <item>Tubuh terasa kedinginan tidak karuan, cegukan, perut terasa kembung, dan menggigil.
+        </item>
+        <item>Gejala diare bermacam-macam, dimulai dari yang hanya merasakan sakit perut singkat dengan tinja yang tidak terlalu encer hingga ada yang mengalami kram perut dengan tinja yang sangat encer. Pada kasus diare parah, kemungkinan penderitanya juga akan mengalami demam dan kram perut hebat.
+        </item>
+        <item>Jarang buang air besar, atau kurang dari sekali sehari "\n" Sulit buang air besar ,Kram otot perut ,Perut terasa berat,Sering buang gas atau kentut
+Lidah berlendir
+Sakit kepala
+Kehilangan nafsu makan
+Sakit pada paha atau betis
+Hipertensi atau tekanan darah tinggi
+Mual
+Vertigo
+Jantung berbebar-debar atau palpitasi
+Kantuk
+        </item>
+        <item>Wajah agak pucat, lesu dan kurang bergairah, Kurus dan perut agak buncit, Berat badan tidak naik-naik meski nafsu makan tidak berkurang, Pada anak(bayi) tampak gelisah dimalam hari dan sering-garuk pantat (bagian anus),Sering mengalami gangguan lambung, mulas, diare atau sulit buang air besar
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+    </string-array>
+    <string-array name="obattangan">
+        <item>Ramuan yang sering dimanfaatkan terbuat dari daun jambu biji. Siapkan 9 lembar daun jambu biji, rebus dan campur dengan 1,5 liter air. Air rebusan tadi bisa anda minum 3 kali sehari. Maag akan berangsur menghilang seiring asalkan anda menjalani terapi rebusan daun biji ini secara teratur dan konsisten.</item>
+        <item>Parut dulu jahe secukupnya, kemudian rebus sampai mendidih dan saring. Agar wedang jahe tak terlalu pedas, kamu bisa menambahkan air perasan lemon dan gula batu. Jika ingin lebih nikmat lagi, konsumsi wedang jahe bersama dengan pisang rebus atau camilan kesukaanmu lainnya.</item>
+        <item>Buah jambu biji ini juga dapat mengatasi Diare dan tidak hanya buahnya saja Daunnya pun dapat juga mengatasi diare. Cara mengkonsumsinya dengan memakan pucuk daun jambu biji dan dicampur dengan garam dapur. Secara langsung Obat tradisional ini akan cepat menghentikan terjadinya sakit perut atau diare.</item>
+        <item>Setengah genggam daun keji beling segar dicuci hingga bersih. Kemudian rebus dengan dua gelas air sampai tersisa satu gelas. Saring dan minum.</item>
+        <item>At Meydanı No:7, 34122 Fatih/İstanbul, Turkey</item>
+        <item>Cape Town, South Africa</item>
+    </string-array>
+    <array name="gambartangan">
+        <item>@drawable/kunyit</item>
+        <item>@drawable/jahe</item>
+        <item>@drawable/jambu</item>
+        <item>@drawable/kejibeling</item>
+        <item>@drawable/e</item>
+        <item>@drawable/f</item>
+    </array>
+
+
+    <string-array name="judulkaki">
+        <item>Kaki lelah</item>
+        <item>Kaki capek</item>
+        <item>Kaki lumpuh</item>
+        <item>Kaki kesemutan</item>
+        <item>Kaki manja</item>
+        <item>Kaki lemah</item>
+    </string-array>
+    <string-array name="definisikaki">
+        <item>Maag atau radang lambung atau tukak lambung adalah gejala penyakit yang menyerang lambung dikarenakan terjadi luka atau peradangan pada lambung yang menyebabkan sakit, mulas, dan perih pada perut.
+        </item>
+        <item>Masuk angin adalah suatu "penyakit" yang disebabkan karena berkumpulnya gas yang tidak merata di dalam tubuh. Masuk Angin diyakini menjadi penyakit yang nyata, namun saat ini belum ada bukti medis untuk mendukung klaim ini. Penyakit ini mirip influenza karena gejala dan penyebabnya hampir sama.</item>
+        <item>Diare merupakan kondisi yang ditandai dengan encernya tinja yang dikeluarkan dengan frekuensi buang air besar (BAB) yang lebih sering dibandingkan dengan biasanya. Pada umumnya, diare terjadi akibat konsumsi makanan atau minuman yang terkontaminasi bakteri, virus, atau parasit.</item>
+        <item>Sembelit adalah adalah kondisi di mana seseorang buang air besar kurang dari tiga kali seminggu. Setiap orang memiliki kebiasaan buang air besar yang berbeda. Ada orang yang buang air besar setiap hari, namun ada juga yang setiap dua hari. Namun jika sulit atau jarang buang air besar, berarti Anda mengalami sembelit.</item>
+        <item>Sultan Ahmed Mosque is mosque locates in Istabul, Turkey</item>
+        <item>Table Mountain is mountain and park locates in Cape Town, South Africa.</item>
+    </string-array>
+    <string-array name="gejalakaki">
+        <item>sering muntah, Anda menjadi sulit menelan dan mengalami penurunan berat badan, serta jika Anda dan telah menginjak berusia 55 tahun ke atas.
+        </item>
+        <item>Tubuh terasa kedinginan tidak karuan, cegukan, perut terasa kembung, dan menggigil.
+        </item>
+        <item>Gejala diare bermacam-macam, dimulai dari yang hanya merasakan sakit perut singkat dengan tinja yang tidak terlalu encer hingga ada yang mengalami kram perut dengan tinja yang sangat encer. Pada kasus diare parah, kemungkinan penderitanya juga akan mengalami demam dan kram perut hebat.
+        </item>
+        <item>Jarang buang air besar, atau kurang dari sekali sehari "\n" Sulit buang air besar ,Kram otot perut ,Perut terasa berat,Sering buang gas atau kentut
+Lidah berlendir
+Sakit kepala
+Kehilangan nafsu makan
+Sakit pada paha atau betis
+Hipertensi atau tekanan darah tinggi
+Mual
+Vertigo
+Jantung berbebar-debar atau palpitasi
+Kantuk
+        </item>
+        <item>Wajah agak pucat, lesu dan kurang bergairah, Kurus dan perut agak buncit, Berat badan tidak naik-naik meski nafsu makan tidak berkurang, Pada anak(bayi) tampak gelisah dimalam hari dan sering-garuk pantat (bagian anus),Sering mengalami gangguan lambung, mulas, diare atau sulit buang air besar
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+    </string-array>
+    <string-array name="obatkaki">
+        <item>Ramuan yang sering dimanfaatkan terbuat dari daun jambu biji. Siapkan 9 lembar daun jambu biji, rebus dan campur dengan 1,5 liter air. Air rebusan tadi bisa anda minum 3 kali sehari. Maag akan berangsur menghilang seiring asalkan anda menjalani terapi rebusan daun biji ini secara teratur dan konsisten.</item>
+        <item>Parut dulu jahe secukupnya, kemudian rebus sampai mendidih dan saring. Agar wedang jahe tak terlalu pedas, kamu bisa menambahkan air perasan lemon dan gula batu. Jika ingin lebih nikmat lagi, konsumsi wedang jahe bersama dengan pisang rebus atau camilan kesukaanmu lainnya.</item>
+        <item>Buah jambu biji ini juga dapat mengatasi Diare dan tidak hanya buahnya saja Daunnya pun dapat juga mengatasi diare. Cara mengkonsumsinya dengan memakan pucuk daun jambu biji dan dicampur dengan garam dapur. Secara langsung Obat tradisional ini akan cepat menghentikan terjadinya sakit perut atau diare.</item>
+        <item>Setengah genggam daun keji beling segar dicuci hingga bersih. Kemudian rebus dengan dua gelas air sampai tersisa satu gelas. Saring dan minum.</item>
+        <item>At Meydanı No:7, 34122 Fatih/İstanbul, Turkey</item>
+        <item>Cape Town, South Africa</item>
+    </string-array>
+    <array name="gambarkaki">
+        <item>@drawable/kunyit</item>
+        <item>@drawable/jahe</item>
+        <item>@drawable/jambu</item>
+        <item>@drawable/kejibeling</item>
         <item>@drawable/e</item>
         <item>@drawable/f</item>
     </array>
