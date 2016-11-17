@@ -21,16 +21,16 @@
         <item>Diare</item>
         <item>Sembelit</item>
         <item>Muntaber</item>
-        <item>Cacingan</item>
+        <item>Cacingan (Cacing Kremi)</item>
     </string-array>
     <string-array name="place_desc">
         <item>Maag atau radang lambung atau tukak lambung adalah gejala penyakit yang menyerang lambung dikarenakan terjadi luka atau peradangan pada lambung yang menyebabkan sakit, mulas, dan perih pada perut.
         </item>
         <item>Masuk angin adalah suatu "penyakit" yang disebabkan karena berkumpulnya gas yang tidak merata di dalam tubuh. Masuk Angin diyakini menjadi penyakit yang nyata, namun saat ini belum ada bukti medis untuk mendukung klaim ini. Penyakit ini mirip influenza karena gejala dan penyebabnya hampir sama.</item>
         <item>Diare merupakan kondisi yang ditandai dengan encernya tinja yang dikeluarkan dengan frekuensi buang air besar (BAB) yang lebih sering dibandingkan dengan biasanya. Pada umumnya, diare terjadi akibat konsumsi makanan atau minuman yang terkontaminasi bakteri, virus, atau parasit.</item>
-        <item>Sembelit adalah adalah kondisi di mana seseorang buang air besar kurang dari tiga kali seminggu. Setiap orang memiliki kebiasaan buang air besar yang berbeda. Ada orang yang buang air besar setiap hari, namun ada juga yang setiap dua hari. Namun jika sulit atau jarang buang air besar, berarti Anda mengalami sembelit.</item>
-        <item>Sultan Ahmed Mosque is mosque locates in Istabul, Turkey</item>
-        <item>Table Mountain is mountain and park locates in Cape Town, South Africa.</item>
+        <item>Sembelit adalah kondisi di mana seseorang buang air besar kurang dari tiga kali seminggu. Setiap orang memiliki kebiasaan buang air besar yang berbeda. Ada orang yang buang air besar setiap hari, namun ada juga yang setiap dua hari. Namun jika sulit atau jarang buang air besar, berarti Anda mengalami sembelit.</item>
+        <item>Muntaber adalah sebuah kondisi penyakit yang biasa kita juga kenal sebagai muntah berak dan kondisi ini sama sekali tak dapat dianggap enteng. Ketika penyakit ini datang dan dibiarkan begitu saja tanpa segera ditangani, maka efeknya pun dapat menjadi lebih buruk dan berbahaya.</item>
+        <item>Cacing kremi adalah cacing parasit kecil yang menjangkiti usus besar manusia. Parasit bernama latin Enterobius vermicularis ini memiliki fisik berwarna putih dan sekilas terlihat seperti benang putih. Cacing ini bisa terlihat pada sekitar lubang anus atau di tinja penderita.</item>
     </string-array>
     <string-array name="place_details">
         <item>sering muntah, Anda menjadi sulit menelan dan mengalami penurunan berat badan, serta jika Anda dan telah menginjak berusia 55 tahun ke atas.
@@ -40,24 +40,19 @@
         <item>Gejala diare bermacam-macam, dimulai dari yang hanya merasakan sakit perut singkat dengan tinja yang tidak terlalu encer hingga ada yang mengalami kram perut dengan tinja yang sangat encer. Pada kasus diare parah, kemungkinan penderitanya juga akan mengalami demam dan kram perut hebat.
         </item>
         <item>Jarang buang air besar, atau kurang dari sekali sehari "\n" Sulit buang air besar ,Kram otot perut ,Perut terasa berat,Sering buang gas atau kentut
-Lidah berlendir
-Sakit kepala
-Kehilangan nafsu makan
-Sakit pada paha atau betis
-Hipertensi atau tekanan darah tinggi
-Mual
-Vertigo
-Jantung berbebar-debar atau palpitasi
-Kantuk
+Lidah berlendir \n
+Sakit kepala \n
+Kehilangan nafsu makan \n
+Sakit pada paha atau betis \n
+Hipertensi atau tekanan darah tinggi \n
+Mual \n
+Vertigo \n
+Jantung berbebar-debar atau palpitasi \n
+Kantuk \n
         </item>
-        <item>Wajah agak pucat, lesu dan kurang bergairah, Kurus dan perut agak buncit, Berat badan tidak naik-naik meski nafsu makan tidak berkurang, Pada anak(bayi) tampak gelisah dimalam hari dan sering-garuk pantat (bagian anus),Sering mengalami gangguan lambung, mulas, diare atau sulit buang air besar
+        <item>Gejala yang paling umum terjadi adalah nyeri perut atau mulas. Gejala-gejala lain yang mungkin Anda rasakan adalah kram di perut, mual, demam, hilangnya nafsu makan, dan tentu saja, dehidrasi. Saat diare disertai dengan muntah berulang kali, itu artinya Anda terserang muntaber.
         </item>
-        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-        deserunt mollit anim id est laborum.
+        <item>Orang yang terjangkiti cacing kremi seringkali tidak merasakan gejala atau tanda apa pun. Namun, gejala umum yang sering dirasakan penderita adalah rasa gatal di sekitar anus dan vagina pada malam hari. Rasa gatal ini disebabkan oleh aktivitas cacing kremi saat menaruh telur-telurnya.
         </item>
     </string-array>
     <string-array name="place_locations">
@@ -65,79 +60,85 @@ Kantuk
         <item>Parut dulu jahe secukupnya, kemudian rebus sampai mendidih dan saring. Agar wedang jahe tak terlalu pedas, kamu bisa menambahkan air perasan lemon dan gula batu. Jika ingin lebih nikmat lagi, konsumsi wedang jahe bersama dengan pisang rebus atau camilan kesukaanmu lainnya.</item>
         <item>Buah jambu biji ini juga dapat mengatasi Diare dan tidak hanya buahnya saja Daunnya pun dapat juga mengatasi diare. Cara mengkonsumsinya dengan memakan pucuk daun jambu biji dan dicampur dengan garam dapur. Secara langsung Obat tradisional ini akan cepat menghentikan terjadinya sakit perut atau diare.</item>
         <item>Setengah genggam daun keji beling segar dicuci hingga bersih. Kemudian rebus dengan dua gelas air sampai tersisa satu gelas. Saring dan minum.</item>
-        <item>At Meydanı No:7, 34122 Fatih/İstanbul, Turkey</item>
-        <item>Cape Town, South Africa</item>
+        <item>Salah satu cara cepat untuk mengobati penyakit muntaber, dapat menggunakan daun sembung. Caranya, rebus 5 lembar pucuk daun sembung bersama 2 gelas air. Biarkan airnya mendidih dan berkurang segelas. Minum ramuan tradisional ini, 2 kali dalam sehari.</item>
+        <item>Kulit mangga yang biasanya dibuang begitu saja ternyata dapat dijadikan sebagai obat cacing. Daya antelmintik pada kulit mangga akan membantu mencegah penyakit cacing terutama untuk anak-anak, antelmintik juga sangat ampuh untuk membunuh kuman dan bakteri yang ada di dalam perut.
+
+Cara membuatnya: Selama kurang lebih 15 menit rebuslah kulit mangga, hal ini akan menjadikan zat antelmintik di kulit mangga keluar. Ambil dan taruhlah dalam gelas air rebusan kulit mangga tersebut kemudian minumlah dengan penuh semangat. Ternyata rebusan kulit mangga ini cukup ampuh membunuh bakteri jahat di dalam perut dan juga larva cacing. </item>
     </string-array>
     <array name="places_picture">
         <item>@drawable/kunyit</item>
         <item>@drawable/jahe</item>
         <item>@drawable/jambu</item>
         <item>@drawable/kejibeling</item>
-        <item>@drawable/e</item>
-        <item>@drawable/f</item>
+        <item>@drawable/sembung</item>
+        <item>@drawable/kulitmangga</item>
     </array>
 
 
     <string-array name="judulkepala">
-        <item>Kepala sakit</item>
-        <item>Kepala manja</item>
-        <item>Kepala terkilir</item>
-        <item>Kepala patah</item>
-        <item>Kepala patah</item>
-        <item>Kepala gatal</item>
+        <item>Migrain</item>
+        <item>Vertigo</item>
+        <item>Pusing atau Pening</item>
+        <item>Sariawan</item>
+        <item>Sakit Gigi</item>
+        <item>Jerawat</item>
     </string-array>
     <string-array name="definisikepala">
-        <item>Maag atau radang lambung atau tukak lambung adalah gejala penyakit yang menyerang lambung dikarenakan terjadi luka atau peradangan pada lambung yang menyebabkan sakit, mulas, dan perih pada perut.
-        </item>
-        <item>Masuk angin adalah suatu "penyakit" yang disebabkan karena berkumpulnya gas yang tidak merata di dalam tubuh. Masuk Angin diyakini menjadi penyakit yang nyata, namun saat ini belum ada bukti medis untuk mendukung klaim ini. Penyakit ini mirip influenza karena gejala dan penyebabnya hampir sama.</item>
-        <item>Diare merupakan kondisi yang ditandai dengan encernya tinja yang dikeluarkan dengan frekuensi buang air besar (BAB) yang lebih sering dibandingkan dengan biasanya. Pada umumnya, diare terjadi akibat konsumsi makanan atau minuman yang terkontaminasi bakteri, virus, atau parasit.</item>
-        <item>Sembelit adalah adalah kondisi di mana seseorang buang air besar kurang dari tiga kali seminggu. Setiap orang memiliki kebiasaan buang air besar yang berbeda. Ada orang yang buang air besar setiap hari, namun ada juga yang setiap dua hari. Namun jika sulit atau jarang buang air besar, berarti Anda mengalami sembelit.</item>
-        <item>Sultan Ahmed Mosque is mosque locates in Istabul, Turkey</item>
-        <item>Table Mountain is mountain and park locates in Cape Town, South Africa.</item>
+        <item>Migrain adalah nyeri kepala sedang hingga parah yang terasa berdenyut yang umumnya hanya mengenai sebelah sisi kepala saja. Penyakit ini lebih sering diidap wanita dibandingkan pria.</item>
+        <item>Penyakit Vertigo merupakan keadaan dimana seseorang merasa dirinya atau ruangan disekitarnya seolah berputar. Perasaan ini disebabkan oleh virus, penurunan aliran darah ke otak, trauma kepala, iskemi sementara karena obat-obatan dan alkohol, migrain, dan beberapa kasusu epilepsi</item>
+        <item>Pusing adalah istilah yang digunakan untuk menggambarkan rasa lemas atau lengah hingga rasa lemah atau goyah. Penyabab utamanya adalah stress dan kecemasan. </item>
+        <item>Sariawan atau dalam bahasa kedokteran disebut dengan stomatitis merupakan radang yang terjadi pada mukosa (pipi bagian dalam) mulut, biasanya berupa bercak putih kekuningan. Bercak itu dapat berupa bercak tunggal maupun berkelompok.</item>
+        <item>Sakit Gigi adalah rasa nyeri yang dirasa disekitar gigi, disebabkan oleh berbagai macam masalah disekitar gigi dan rahang. Contoh kecil seperti penyakit rahang, gigi berlubang atau karies gigi. </item>
+        <item>Jerawat adalah masalah kulit yang ditandai dengan munculnya bintik-bintik pada beberapa bagian tubuh, seperti wajah, leher, punggung, dan dada. Bintik-bintik tersebut dapat berkisar mulai dari yang ringan, seperti komedo hitam dan komedo putih, hingga bintik-bintik parah yang berisi nanah dan kista.</item>
     </string-array>
     <string-array name="gejalakepala">
-        <item>sering muntah, Anda menjadi sulit menelan dan mengalami penurunan berat badan, serta jika Anda dan telah menginjak berusia 55 tahun ke atas.
+        <item>Sakit kepala sangat parah yang terjadi secara tiba-tiba dan belum pernah dirasakan sebelumnya.
+Lengan dan/atau satu sisi wajah atau seluruh wajah, terasa lemas atau lumpuh.
+Sakit kepala yang bersamaan dengan demam, leher kaku, kebingungan, kejang, penglihatan ganda, dan ruam kulit.
+Bicara dan gerak bibir yang sulit dimengerti.
         </item>
-        <item>Tubuh terasa kedinginan tidak karuan, cegukan, perut terasa kembung, dan menggigil.
+        <item>Gejala yang berhubungan dengan vertigo adalah kehilangan keseimbangan. Tanda-tanda ini akan memicu pengidap vertigo mengalami kesulitan berdiri atau berjalan, mual, muntah, berkeringat, kadang disertai nistagmus (gerakan mata yang tidak normal) dan pusing.
         </item>
-        <item>Gejala diare bermacam-macam, dimulai dari yang hanya merasakan sakit perut singkat dengan tinja yang tidak terlalu encer hingga ada yang mengalami kram perut dengan tinja yang sangat encer. Pada kasus diare parah, kemungkinan penderitanya juga akan mengalami demam dan kram perut hebat.
+        <item>Sensasi seperti mau pingsan.
+Sensasi limbung atau kehilangan keseimbangan.
+Vertigo, yaitu sekeliling terasa berputar.
         </item>
-        <item>Jarang buang air besar, atau kurang dari sekali sehari "\n" Sulit buang air besar ,Kram otot perut ,Perut terasa berat,Sering buang gas atau kentut
-Lidah berlendir
-Sakit kepala
-Kehilangan nafsu makan
-Sakit pada paha atau betis
-Hipertensi atau tekanan darah tinggi
-Mual
-Vertigo
-Jantung berbebar-debar atau palpitasi
-Kantuk
+        <item>Luka berwarna putih yang biasa muncul di lidah atau dinding mulut.
+Sensasi terbakar pada lidah.
+Rasa sakit saat menelan.
+Rasa tidak nyaman di dalam mulut.
         </item>
-        <item>Wajah agak pucat, lesu dan kurang bergairah, Kurus dan perut agak buncit, Berat badan tidak naik-naik meski nafsu makan tidak berkurang, Pada anak(bayi) tampak gelisah dimalam hari dan sering-garuk pantat (bagian anus),Sering mengalami gangguan lambung, mulas, diare atau sulit buang air besar
+        <item>Bengkak di sekitar gigi yang terinfeksi. \n
+                Pusing. \n
+                Rasa dan bau busuk dari gigi yang terinfeksi. \n
+                Demam. \n
         </item>
-        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-        deserunt mollit anim id est laborum.
+        <item>Timbulnya benjolan yang berwarna kemerahan atau kuning yang mengandung nanah. Ciri - ciri jerawat juga bisa dikelompokkan menjadi dua kategori yaitu jerawat yang meradang dan tidak meradang. \n\n
+                A. Jerawat Meradang \n
+            Jerawat yang meradang ciri-cirinya berwarna kemerah-merahan dan terjadi peradangan serta pembengkakan, juga gejala adanya iritasi pada kulit. \n\n
+                B. Jerawat Tidak Meradang \n
+            Kalau jerawat yang termasuk tipe ini secara kasat mata kurang terlihat, namun menyebabkan kulit anda terasa kasar. Tapi walau tidak terlihat bukan berarti anda membiarkan begitu saja karena jerawat yang tidak meradang bisa menjadi jerawat yang meradang juga pada akhirnya.
         </item>
     </string-array>
     <string-array name="obatkepala">
-        <item>Ramuan yang sering dimanfaatkan terbuat dari daun jambu biji. Siapkan 9 lembar daun jambu biji, rebus dan campur dengan 1,5 liter air. Air rebusan tadi bisa anda minum 3 kali sehari. Maag akan berangsur menghilang seiring asalkan anda menjalani terapi rebusan daun biji ini secara teratur dan konsisten.</item>
-        <item>Parut dulu jahe secukupnya, kemudian rebus sampai mendidih dan saring. Agar wedang jahe tak terlalu pedas, kamu bisa menambahkan air perasan lemon dan gula batu. Jika ingin lebih nikmat lagi, konsumsi wedang jahe bersama dengan pisang rebus atau camilan kesukaanmu lainnya.</item>
-        <item>Buah jambu biji ini juga dapat mengatasi Diare dan tidak hanya buahnya saja Daunnya pun dapat juga mengatasi diare. Cara mengkonsumsinya dengan memakan pucuk daun jambu biji dan dicampur dengan garam dapur. Secara langsung Obat tradisional ini akan cepat menghentikan terjadinya sakit perut atau diare.</item>
-        <item>Setengah genggam daun keji beling segar dicuci hingga bersih. Kemudian rebus dengan dua gelas air sampai tersisa satu gelas. Saring dan minum.</item>
-        <item>At Meydanı No:7, 34122 Fatih/İstanbul, Turkey</item>
-        <item>Cape Town, South Africa</item>
+        <item> Buatlah jus lemon dari 1 buah lemon dan dicampur ke dalam gelas bersama air putih dan kita bisa gunakan kulitnya untuk dilumat lalu ditempel di dahi</item>
+        <item>Almond kaya akan asam lemak esensial, vitamin dan mineral. Nutrisi di dalamnya juga membantu tubuh untuk mengatasi serangan vertigo. Tidak hanya itu, almond juga berkhasiat untuk menyembuhkan kelelahan dan sakit kepala yang terjadi karena vertigo. Anda dapat mencampur bubuk almond dalam susu panas dan diminum di pagi hari.</item>
+        <item>Bahan-bahannya adalah sediakan daun jeruk nipis setengah lembar serta satu buah jeruk nipis. Cara membuatnya yaitu daun jeruk nipis tersebut ditumbuk sampai halus. Lalu masukkan kedalam wadah. Setelah itu, dicampur dengan perasan air jeruk nipis. Aduk merata. digunakan sebagai obat gosok yaitu caranya usapkan pada bagian bahu, tengkuk serta pelipis.</item>
+        <item>Percaya atau tidak, air kelapa dikenal denga pendinginannya sehingga dapat menenangkan sistem pencernaan. Selain baik untuk mengatasi dehidrasi, air kelapa juga baik untuk mengobati sariawan.</item>
+        <item>Disarankan menggunakan minyak cengkeh. Adapun cara penggunaannya adalah dengan cara menuang minyak secukupnya pada kapas lalu tempelkan pada bagian yang sakit. Usahakan dijepit atau digigit agar tak lepas.Biarkan dalam waktu lama dan ganti bisa sudah terasa kurang efeknya.</item>
+        <item>Cara Menghilangkan Jerawat Menggunakan Bawang Putih \n\n
+Ambil bawang putih dan potong 1 siung bawang putih menjadi 2 bagian \n
+Gosok-gosokkan bawang putih yang telah dipotong ke jerawat dan biarkan selama 5-10 menit \n
+Cucilah wajah menggunakan air bersih \n
+Lakukan ini secara rutin hingga mendapatkan hasil yang maksimal</item>
     </string-array>
     <array name="gambarkepala">
-        <item>@drawable/kunyit</item>
-        <item>@drawable/jahe</item>
-        <item>@drawable/jambu</item>
-        <item>@drawable/kejibeling</item>
-        <item>@drawable/e</item>
-        <item>@drawable/f</item>
+        <item>@drawable/juslemon</item>
+        <item>@drawable/almond</item>
+        <item>@drawable/jeruknipis</item>
+        <item>@drawable/airkelapa</item>
+        <item>@drawable/minyakcengkeh</item>
+        <item>@drawable/bawangputih</item>
     </array>
 
 
@@ -154,7 +155,7 @@ Kantuk
         </item>
         <item>Masuk angin adalah suatu "penyakit" yang disebabkan karena berkumpulnya gas yang tidak merata di dalam tubuh. Masuk Angin diyakini menjadi penyakit yang nyata, namun saat ini belum ada bukti medis untuk mendukung klaim ini. Penyakit ini mirip influenza karena gejala dan penyebabnya hampir sama.</item>
         <item>Diare merupakan kondisi yang ditandai dengan encernya tinja yang dikeluarkan dengan frekuensi buang air besar (BAB) yang lebih sering dibandingkan dengan biasanya. Pada umumnya, diare terjadi akibat konsumsi makanan atau minuman yang terkontaminasi bakteri, virus, atau parasit.</item>
-        <item>Sembelit adalah adalah kondisi di mana seseorang buang air besar kurang dari tiga kali seminggu. Setiap orang memiliki kebiasaan buang air besar yang berbeda. Ada orang yang buang air besar setiap hari, namun ada juga yang setiap dua hari. Namun jika sulit atau jarang buang air besar, berarti Anda mengalami sembelit.</item>
+        <item>Sembelit  adalah kondisi di mana seseorang buang air besar kurang dari tiga kali seminggu. Setiap orang memiliki kebiasaan buang air besar yang berbeda. Ada orang yang buang air besar setiap hari, namun ada juga yang setiap dua hari. Namun jika sulit atau jarang buang air besar, berarti Anda mengalami sembelit.</item>
         <item>Sultan Ahmed Mosque is mosque locates in Istabul, Turkey</item>
         <item>Table Mountain is mountain and park locates in Cape Town, South Africa.</item>
     </string-array>
@@ -217,7 +218,7 @@ Kantuk
         </item>
         <item>Masuk angin adalah suatu "penyakit" yang disebabkan karena berkumpulnya gas yang tidak merata di dalam tubuh. Masuk Angin diyakini menjadi penyakit yang nyata, namun saat ini belum ada bukti medis untuk mendukung klaim ini. Penyakit ini mirip influenza karena gejala dan penyebabnya hampir sama.</item>
         <item>Diare merupakan kondisi yang ditandai dengan encernya tinja yang dikeluarkan dengan frekuensi buang air besar (BAB) yang lebih sering dibandingkan dengan biasanya. Pada umumnya, diare terjadi akibat konsumsi makanan atau minuman yang terkontaminasi bakteri, virus, atau parasit.</item>
-        <item>Sembelit adalah adalah kondisi di mana seseorang buang air besar kurang dari tiga kali seminggu. Setiap orang memiliki kebiasaan buang air besar yang berbeda. Ada orang yang buang air besar setiap hari, namun ada juga yang setiap dua hari. Namun jika sulit atau jarang buang air besar, berarti Anda mengalami sembelit.</item>
+        <item>Sembelit adalah kondisi di mana seseorang buang air besar kurang dari tiga kali seminggu. Setiap orang memiliki kebiasaan buang air besar yang berbeda. Ada orang yang buang air besar setiap hari, namun ada juga yang setiap dua hari. Namun jika sulit atau jarang buang air besar, berarti Anda mengalami sembelit.</item>
         <item>Sultan Ahmed Mosque is mosque locates in Istabul, Turkey</item>
         <item>Table Mountain is mountain and park locates in Cape Town, South Africa.</item>
     </string-array>
