@@ -143,127 +143,134 @@ Lakukan ini secara rutin hingga mendapatkan hasil yang maksimal</item>
 
 
     <string-array name="judultangan">
-        <item>Tangan gatal</item>
-        <item>Tangan sakit</item>
-        <item>Tangan terkilir</item>
-        <item>Tangan Putus</item>
-        <item>Tangan lebay</item>
-        <item>Tangan manja</item>
+        <item>Gatal - Gatal</item>
+        <item>Luka Terbuka</item>
+        <item>Rematik</item>
+        <item>Koilonikia (Kuku sendok)</item>
+        <item>Kulit Kering</item>
+        <item>Kram</item>
     </string-array>
     <string-array name="definisitangan">
-        <item>Maag atau radang lambung atau tukak lambung adalah gejala penyakit yang menyerang lambung dikarenakan terjadi luka atau peradangan pada lambung yang menyebabkan sakit, mulas, dan perih pada perut.
-        </item>
-        <item>Masuk angin adalah suatu "penyakit" yang disebabkan karena berkumpulnya gas yang tidak merata di dalam tubuh. Masuk Angin diyakini menjadi penyakit yang nyata, namun saat ini belum ada bukti medis untuk mendukung klaim ini. Penyakit ini mirip influenza karena gejala dan penyebabnya hampir sama.</item>
-        <item>Diare merupakan kondisi yang ditandai dengan encernya tinja yang dikeluarkan dengan frekuensi buang air besar (BAB) yang lebih sering dibandingkan dengan biasanya. Pada umumnya, diare terjadi akibat konsumsi makanan atau minuman yang terkontaminasi bakteri, virus, atau parasit.</item>
-        <item>Sembelit  adalah kondisi di mana seseorang buang air besar kurang dari tiga kali seminggu. Setiap orang memiliki kebiasaan buang air besar yang berbeda. Ada orang yang buang air besar setiap hari, namun ada juga yang setiap dua hari. Namun jika sulit atau jarang buang air besar, berarti Anda mengalami sembelit.</item>
-        <item>Sultan Ahmed Mosque is mosque locates in Istabul, Turkey</item>
-        <item>Table Mountain is mountain and park locates in Cape Town, South Africa.</item>
+        <item>Gatal adalah rasa tidak nyaman pada kulit yang memicu penderitanya untuk melakukan garukan. Di dalam dunia medis, gatal disebut pruritus. Gatal dapat mengenai salah satu tempat saja, dapat juga mengenai seluruh tubuh. Demikian pula dengan kelainan kulit yang menyertainya.</item>
+        <item>Luka terbuka merupakan luka dimana kulit atau jaringan selaput lendir rusak. Cedera jaringan lunak disertai kerusakan / terputusnya jaringan kulit yaitu rusaknya kulit dan bisa disertai jaringan di bawah kulit.</item>
+        <item>Rematik adalah penyakit-penyakit yang menyebabkan nyeri atau pegal-pegal pada anggota gerak terutama pada sendi. Ada banyak penyakit yang termasuk dalam penyakit rematik seperti Rheumatoid arthritis (RA), Osteoarthritis (OA), Lupus, dan lain-lain. Gejala rematik akan berbeda tergantung penyakit mana yang menyerang.</item>
+        <item>Koilonikia adalah penyakit kuku yang terjadi akibat anemia atau kekurangan zat besi.</item>
+        <item>Kulit kering adalah kondisi umum yang dialami kulit di mana terdapat kekurangan cairan di lapisan terluar kulit. Bagian tubuh yang terbuka, seperti lengan, tangan, dan kaki adalah area yang paling rentan mengalami gangguan ini. Dalam dunia medis, kulit kering biasa disebut dengan xerosis atau xeroderma.</item>
+        <item>Kram adalah pengerutan pada otot, yang muncul secara tiba-tiba dan menyebabkan nyeri. Kram bisa sembuh dengan sendirinya selama beberapa detik, menit, atau jam, tergantung dari kontraksi tersebut, dan kram dapat terjadi pada otot rangka atau otot polos.</item>
     </string-array>
     <string-array name="gejalatangan">
-        <item>sering muntah, Anda menjadi sulit menelan dan mengalami penurunan berat badan, serta jika Anda dan telah menginjak berusia 55 tahun ke atas.
+        <item>Keluar darah. \n
+            Jaringan kulit luar robek akibat tergores. \n
+            Timbul rasa sakit dan perih. \n
+            Terkadang juga akan mengakibatkan kepala pusing.
         </item>
-        <item>Tubuh terasa kedinginan tidak karuan, cegukan, perut terasa kembung, dan menggigil.
+        <item>Kulit terasa tidak nyaman. \n
+            Warna kulit menjadi kemerahan. \n
+            Kadang disertai bentolan kecil - kecil. \n
+            Kulit terasa kering dan lebih sensitif.
         </item>
-        <item>Gejala diare bermacam-macam, dimulai dari yang hanya merasakan sakit perut singkat dengan tinja yang tidak terlalu encer hingga ada yang mengalami kram perut dengan tinja yang sangat encer. Pada kasus diare parah, kemungkinan penderitanya juga akan mengalami demam dan kram perut hebat.
+        <item>Kekauan sendi di pagi hari. \n
+            Pembengkakan dan nyeri sendi. \n
+            Adanya benjolan atau nodul. \n
+            Penumpukan cairan.
         </item>
-        <item>Jarang buang air besar, atau kurang dari sekali sehari "\n" Sulit buang air besar ,Kram otot perut ,Perut terasa berat,Sering buang gas atau kentut
-Lidah berlendir
-Sakit kepala
-Kehilangan nafsu makan
-Sakit pada paha atau betis
-Hipertensi atau tekanan darah tinggi
-Mual
-Vertigo
-Jantung berbebar-debar atau palpitasi
-Kantuk
+        <item>Kuku menjadi tipis dan datar atau cekung.
         </item>
-        <item>Wajah agak pucat, lesu dan kurang bergairah, Kurus dan perut agak buncit, Berat badan tidak naik-naik meski nafsu makan tidak berkurang, Pada anak(bayi) tampak gelisah dimalam hari dan sering-garuk pantat (bagian anus),Sering mengalami gangguan lambung, mulas, diare atau sulit buang air besar
+        <item>Kulit bersisik dan kasar \n
+            Mudah tergores atau tergesek benda \n
+            Akan menimbulkan bekas jika tergesek ssesuatu \n
         </item>
-        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-        deserunt mollit anim id est laborum.
+        <item>Tangan terasa lemah untuk digerakan. \n
+            Mati rasa. \n
+            Tangan terasa kaku dan terasa sakit. \n
+            Terkadang juga menyebabkan perubahan warna kulit menjadi kemerahan.
         </item>
     </string-array>
     <string-array name="obattangan">
-        <item>Ramuan yang sering dimanfaatkan terbuat dari daun jambu biji. Siapkan 9 lembar daun jambu biji, rebus dan campur dengan 1,5 liter air. Air rebusan tadi bisa anda minum 3 kali sehari. Maag akan berangsur menghilang seiring asalkan anda menjalani terapi rebusan daun biji ini secara teratur dan konsisten.</item>
-        <item>Parut dulu jahe secukupnya, kemudian rebus sampai mendidih dan saring. Agar wedang jahe tak terlalu pedas, kamu bisa menambahkan air perasan lemon dan gula batu. Jika ingin lebih nikmat lagi, konsumsi wedang jahe bersama dengan pisang rebus atau camilan kesukaanmu lainnya.</item>
-        <item>Buah jambu biji ini juga dapat mengatasi Diare dan tidak hanya buahnya saja Daunnya pun dapat juga mengatasi diare. Cara mengkonsumsinya dengan memakan pucuk daun jambu biji dan dicampur dengan garam dapur. Secara langsung Obat tradisional ini akan cepat menghentikan terjadinya sakit perut atau diare.</item>
-        <item>Setengah genggam daun keji beling segar dicuci hingga bersih. Kemudian rebus dengan dua gelas air sampai tersisa satu gelas. Saring dan minum.</item>
-        <item>At Meydanı No:7, 34122 Fatih/İstanbul, Turkey</item>
-        <item>Cape Town, South Africa</item>
+        <item>Lidah Buaya Dipercaya Dapat Mengatasi Gatal Di Badan. Kandungan aloe vera yang terdapat dalam gell lidah buaya mampu untuk menghilangkan gatal di badan. Tidak banyak cara untuk menggunakan gell lidah buaya sebagai obat gatal Anda. Cukup Anda ambil lidah buaya dan potong menjadi dua. Lalu ambil gell lidah buaya dan oleskan terhadap badan yang terasa gatal. Memang untuk pengobatan yang sebentar tidak akan langsung terasa efeknya. Oleh karena itu lakukan hal ini sesering mungkin demi untuk proses penyembuhan lebih cepat lagi.</item>
+        <item>Minyak kelapa memiliki sejuta manfaat, juga dapat menyembuhkan luka dengan efektif. Minyak nabati ini memiliki sifat antibakteri dan antijamur yang menakjubkan dan bahkan dapat mencegah luka jaringan parut. Oleskan minyak kelapa pada luka untuk membantu mempercepat penyebuhannya 2 atau 3 kali sehari</item>
+        <item>Cara pengobatan penyakit rematik dengan ramuan herbal sangat mudah untuk dibuat dan juga tak kalah khasiatnya untuk mengatasi rematik adalah dengan menggunakan daun belimbing wuluh muda. Cara membuatnya cukup sediakan sebanyak 100 gram daun belimbing wuluh muda, cengkeh sebanyak 10 biji, merica sebanyak 15 biji, serta cuka secukupnya. Kemudian giling hingga halus semua bahan-bahan tersebut. Ramuan ini juga hanya obat untuk pemakaian luar, cara menggunakannya cukup oleskan pada bagian yang sakit sebanyak yang diperlukan.</item>
+        <item>Menggunakan minyak lemon esensial untuk membersihkan kuku. \n
+             Rendam dengan air hangat dan gosok dengan sikat halus. \n
+             Hindari memakai kuteks berwarna terang. \n
+            Istirahatkan kuku Anda dari pemakaian kuteks selama beberapa bulan.</item>
+        <item>Mentimun \n
+        Selain untuk wajah, ternyata timun juga dapat bermanfaat untuk kulit kaki dan tangan. Pertama kupas dan cuci timun hingga bersih. Lalu haluskan menggunakan blender atau parut. Setelah itu oleskan pada bagian tubuh yang diinginkan.</item>
+        <item>Kulit Manggis kaya akan kandungan vitamin B1, B2 dan C, serta kalsium, potassium, dan zat besi yang baik untuk tubuh dan tulang.
+        \n\n
+        Kandungan didalam kulit manggis dipercaya mampu melancarkan peredaran darah keseluruh tubuh, termasuk pada kaki, betis, atau tangan, sehingga mampu mencegah dan mengatasi terjadinya kram berulang.
+        \n\n
+        Selain itu, kulit manggis ini mengandung senyawa Xanthone yang kaya akan antioksidan tinggi yang mampu menangkal radikal bebas, mampu memperbaiki sel-sel tubuh yang rusak dan mampu menetralisir racun didalam tubuh.</item>
     </string-array>
     <array name="gambartangan">
-        <item>@drawable/kunyit</item>
-        <item>@drawable/jahe</item>
-        <item>@drawable/jambu</item>
-        <item>@drawable/kejibeling</item>
-        <item>@drawable/e</item>
-        <item>@drawable/f</item>
+        <item>@drawable/lidahbuaya</item>
+        <item>@drawable/minyakelapa</item>
+        <item>@drawable/belimbingwuluh</item>
+        <item>@drawable/minyaklemon</item>
+        <item>@drawable/timun</item>
+        <item>@drawable/kulitmanggis</item>
     </array>
 
 
     <string-array name="judulkaki">
-        <item>Kaki lelah</item>
-        <item>Kaki capek</item>
-        <item>Kaki lumpuh</item>
-        <item>Kaki kesemutan</item>
-        <item>Kaki manja</item>
-        <item>Kaki lemah</item>
+        <item>Kaki Terkilir</item>
+        <item>Rematik</item>
+        <item>Kesemutan</item>
+        <item>Luka Terbuka</item>
+        <item>Gatal - Gatal</item>
+        <item>Kapalan</item>
     </string-array>
     <string-array name="definisikaki">
-        <item>Maag atau radang lambung atau tukak lambung adalah gejala penyakit yang menyerang lambung dikarenakan terjadi luka atau peradangan pada lambung yang menyebabkan sakit, mulas, dan perih pada perut.
+        <item>Keseleo atau terkilir adalah cedera berupa peregangan dan atau robekan pada otot, tendon (jaringan yang menghubungkan otot dengan tulang) atau ligamen (jaringan yang menghubungkan tulang dengan tulang lainnya). Biasanya hal ini terjadi saat aktifitas fisik yang berat atau saat berolahraga
         </item>
-        <item>Masuk angin adalah suatu "penyakit" yang disebabkan karena berkumpulnya gas yang tidak merata di dalam tubuh. Masuk Angin diyakini menjadi penyakit yang nyata, namun saat ini belum ada bukti medis untuk mendukung klaim ini. Penyakit ini mirip influenza karena gejala dan penyebabnya hampir sama.</item>
-        <item>Diare merupakan kondisi yang ditandai dengan encernya tinja yang dikeluarkan dengan frekuensi buang air besar (BAB) yang lebih sering dibandingkan dengan biasanya. Pada umumnya, diare terjadi akibat konsumsi makanan atau minuman yang terkontaminasi bakteri, virus, atau parasit.</item>
-        <item>Sembelit adalah kondisi di mana seseorang buang air besar kurang dari tiga kali seminggu. Setiap orang memiliki kebiasaan buang air besar yang berbeda. Ada orang yang buang air besar setiap hari, namun ada juga yang setiap dua hari. Namun jika sulit atau jarang buang air besar, berarti Anda mengalami sembelit.</item>
-        <item>Sultan Ahmed Mosque is mosque locates in Istabul, Turkey</item>
-        <item>Table Mountain is mountain and park locates in Cape Town, South Africa.</item>
+        <item>Rematik adalah penyakit-penyakit yang menyebabkan nyeri atau pegal-pegal pada anggota gerak terutama pada sendi. Ada banyak penyakit yang termasuk dalam penyakit rematik seperti Rheumatoid arthritis (RA), Osteoarthritis (OA), Lupus, dan lain-lain. Gejala rematik akan berbeda tergantung penyakit mana yang menyerang.</item>
+        <item>Kesemutan sementara terjadi ketika ada anggota tubuh yang mengalami tekanan dalam waktu lama. Hal ini membuat pasokan darah ke saraf di daerah itu menjadi terhambat. Anda bisa merasakan kesemutan pada kaki setelah duduk bersila atau memakai sepatu terlalu kecil</item>
+        <item>Luka terbuka merupakan luka dimana kulit atau jaringan selaput lendir rusak. Cedera jaringan lunak disertai kerusakan / terputusnya jaringan kulit yaitu rusaknya kulit dan bisa disertai jaringan di bawah kulit.</item>
+        <item>Gatal adalah rasa tidak nyaman pada kulit yang memicu penderitanya untuk melakukan garukan. Di dalam dunia medis, gatal disebut pruritus. Gatal dapat mengenai salah satu tempat saja, dapat juga mengenai seluruh tubuh. Demikian pula dengan kelainan kulit yang menyertainya.</item>
+        <item>Kapalan atau callus biasanya muncul pada kaki, tumit, tangan, atau jari, dan bisa menyebabkan rasa tidak nyaman dan nyeri saat berjalan atau beraktivitas. Kapalan merupakan reaksi alami tubuh untuk melindungi bagian kulit..</item>
     </string-array>
     <string-array name="gejalakaki">
-        <item>sering muntah, Anda menjadi sulit menelan dan mengalami penurunan berat badan, serta jika Anda dan telah menginjak berusia 55 tahun ke atas.
+        <item>Nyeri sendi, Pembengkakan, Kekakuan sendi, Perubahan warna kulit merah-kebiruan.
         </item>
-        <item>Tubuh terasa kedinginan tidak karuan, cegukan, perut terasa kembung, dan menggigil.
+        <item>Kekauan sendi di pagi hari. \n
+            Pembengkakan dan nyeri sendi. \n
+            Adanya benjolan atau nodul. \n
+            Penumpukan cairan.
         </item>
-        <item>Gejala diare bermacam-macam, dimulai dari yang hanya merasakan sakit perut singkat dengan tinja yang tidak terlalu encer hingga ada yang mengalami kram perut dengan tinja yang sangat encer. Pada kasus diare parah, kemungkinan penderitanya juga akan mengalami demam dan kram perut hebat.
+        <item>Kaki sulit digerakan. \n
+            Kaki serasa seperti tersengat listrik ringan. \n
+            Kaki mendapat sensasi seperti dirumuti oleh banyak semut.
         </item>
-        <item>Jarang buang air besar, atau kurang dari sekali sehari "\n" Sulit buang air besar ,Kram otot perut ,Perut terasa berat,Sering buang gas atau kentut
-Lidah berlendir
-Sakit kepala
-Kehilangan nafsu makan
-Sakit pada paha atau betis
-Hipertensi atau tekanan darah tinggi
-Mual
-Vertigo
-Jantung berbebar-debar atau palpitasi
-Kantuk
+        <item>Keluar darah. \n
+            Jaringan kulit luar robek akibat tergores. \n
+            Timbul rasa sakit dan perih. \n
+            Terkadang juga akan mengakibatkan kepala pusing.
         </item>
-        <item>Wajah agak pucat, lesu dan kurang bergairah, Kurus dan perut agak buncit, Berat badan tidak naik-naik meski nafsu makan tidak berkurang, Pada anak(bayi) tampak gelisah dimalam hari dan sering-garuk pantat (bagian anus),Sering mengalami gangguan lambung, mulas, diare atau sulit buang air besar
+        <item>Kulit terasa tidak nyaman. \n
+            Warna kulit menjadi kemerahan. \n
+            Kadang disertai bentolan kecil - kecil. \n
+            Kulit terasa kering dan lebih sensitif.
         </item>
-        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-        deserunt mollit anim id est laborum.
+        <item>Kulit berubah menjadi kering atau pecah - pecah. \n
+    Rasa nyeri atau sakit saat disentuh pada bagian bawah kulit. \n
+    Ada sebagian kulit yang terasa kasar dan menebal. \n
+    Timbulnya benjolan yang mengeras pada kulit. \n
         </item>
     </string-array>
     <string-array name="obatkaki">
-        <item>Ramuan yang sering dimanfaatkan terbuat dari daun jambu biji. Siapkan 9 lembar daun jambu biji, rebus dan campur dengan 1,5 liter air. Air rebusan tadi bisa anda minum 3 kali sehari. Maag akan berangsur menghilang seiring asalkan anda menjalani terapi rebusan daun biji ini secara teratur dan konsisten.</item>
-        <item>Parut dulu jahe secukupnya, kemudian rebus sampai mendidih dan saring. Agar wedang jahe tak terlalu pedas, kamu bisa menambahkan air perasan lemon dan gula batu. Jika ingin lebih nikmat lagi, konsumsi wedang jahe bersama dengan pisang rebus atau camilan kesukaanmu lainnya.</item>
-        <item>Buah jambu biji ini juga dapat mengatasi Diare dan tidak hanya buahnya saja Daunnya pun dapat juga mengatasi diare. Cara mengkonsumsinya dengan memakan pucuk daun jambu biji dan dicampur dengan garam dapur. Secara langsung Obat tradisional ini akan cepat menghentikan terjadinya sakit perut atau diare.</item>
-        <item>Setengah genggam daun keji beling segar dicuci hingga bersih. Kemudian rebus dengan dua gelas air sampai tersisa satu gelas. Saring dan minum.</item>
-        <item>At Meydanı No:7, 34122 Fatih/İstanbul, Turkey</item>
-        <item>Cape Town, South Africa</item>
+        <item>Lumuri dengan parutan jahe. Jahe sangat efektif untuk mengurangi rasa sakit karena keseleo atau terkilir karena jahe memiliki sifat hangat. Karena itu jahe dapat mengurangi pembengkakan yang terjadi akibat keseleo atau terkilir.</item>
+        <item>Cara pengobatan penyakit rematik dengan ramuan herbal sangat mudah untuk dibuat dan juga tak kalah khasiatnya untuk mengatasi rematik adalah dengan menggunakan daun belimbing wuluh muda. Cara membuatnya cukup sediakan sebanyak 100 gram daun belimbing wuluh muda, cengkeh sebanyak 10 biji, merica sebanyak 15 biji, serta cuka secukupnya. Kemudian giling hingga halus semua bahan-bahan tersebut. Ramuan ini juga hanya obat untuk pemakaian luar, cara menggunakannya cukup oleskan pada bagian yang sakit sebanyak yang diperlukan.</item>
+        <item>Kita bisa mengatasinya dengan daun sirsak. Caranya, ambil daun sirsak secukupnya, di rebus dalam air kemudian airnya disaring dan bisa diminum. Tidak hanya daunnya, buah sirsak juga efektif membantu mencegah kanker, tumor dan penyakit ganas lainnya.</item>
+        <item>Minyak kelapa memiliki sejuta manfaat, juga dapat menyembuhkan luka dengan efektif. Minyak nabati ini memiliki sifat antibakteri dan antijamur yang menakjubkan dan bahkan dapat mencegah luka jaringan parut. Oleskan minyak kelapa pada luka untuk membantu mempercepat penyebuhannya 2 atau 3 kali sehari</item>
+        <item>Lidah Buaya Dipercaya Dapat Mengatasi Gatal Di Badan. Kandungan aloe vera yang terdapat dalam gell lidah buaya mampu untuk menghilangkan gatal di badan. Tidak banyak cara untuk menggunakan gell lidah buaya sebagai obat gatal Anda. Cukup Anda ambil lidah buaya dan potong menjadi dua. Lalu ambil gell lidah buaya dan oleskan terhadap badan yang terasa gatal. Memang untuk pengobatan yang sebentar tidak akan langsung terasa efeknya. Oleh karena itu lakukan hal ini sesering mungkin demi untuk proses penyembuhan lebih cepat lagi.</item>
+        <item>Kulit nanas membantu dalam proses pengobatan kapalan. Untuk wanita maupun pria, bisa mencoba cara yang satu ini. Pertama-tama, rendamlah kaki atau tangan Anda pada baskom berisikan air hangat seperti biasanya selama 15 – 30 menit. Lalu  tempelkan bagian dalam kulit nanas pada kulit yang kapalan, rekatkan juga dengan plester luka atau dibalut dengan kain. Lakukan ini sebelum tidur, lalu pagi harinya dilepas dan ulangi lagi selama minimal 4 hari.</item>
     </string-array>
     <array name="gambarkaki">
-        <item>@drawable/kunyit</item>
         <item>@drawable/jahe</item>
-        <item>@drawable/jambu</item>
-        <item>@drawable/kejibeling</item>
-        <item>@drawable/e</item>
-        <item>@drawable/f</item>
+        <item>@drawable/belimbingwuluh</item>
+        <item>@drawable/sirsak</item>
+        <item>@drawable/minyakelapa</item>
+        <item>@drawable/lidahbuaya</item>
+        <item>@drawable/kulitnanas</item>
     </array>
 </resources>
