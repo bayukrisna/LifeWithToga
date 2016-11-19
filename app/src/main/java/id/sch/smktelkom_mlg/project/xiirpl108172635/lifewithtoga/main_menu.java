@@ -45,6 +45,19 @@ public class main_menu extends AppCompatActivity {
                 hasilPindah(4);
             }
         });
+        findViewById(R.id.imageButton).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                next();
+            }
+
+
+        });
+    }
+
+    private void next() {
+        Intent intent = new Intent(main_menu.this, music_list.class);
+        startActivity(intent);
     }
 
     private void hasilPindah(Integer agt) {
