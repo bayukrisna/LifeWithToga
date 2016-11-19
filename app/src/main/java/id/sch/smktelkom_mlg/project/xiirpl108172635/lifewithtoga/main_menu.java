@@ -18,36 +18,36 @@ public class main_menu extends AppCompatActivity {
         findViewById(R.id.body).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                hasilPindah("badan");
+                hasilPindah(1);
             }
         });
         findViewById(R.id.headUp).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                hasilPindah("kepala");
+                hasilPindah(2);
             }
         });
         findViewById(R.id.handLeft).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                hasilPindah("tangan");
+                hasilPindah(3);
             }
         });
         findViewById(R.id.handRight).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                hasilPindah("tangan");
+                hasilPindah(3);
             }
         });
         findViewById(R.id.legUnder).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                hasilPindah("kaki");
+                hasilPindah(4);
             }
         });
     }
 
-    private void hasilPindah(String agt) {
+    private void hasilPindah(Integer agt) {
         Intent intent = new Intent(main_menu.this, MainActivity.class);
         intent.putExtra(ANGT, agt);
 

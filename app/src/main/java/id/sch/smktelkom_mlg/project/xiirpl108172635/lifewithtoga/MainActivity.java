@@ -17,6 +17,8 @@ import id.sch.smktelkom_mlg.project.xiirpl108172635.lifewithtoga.model.Toga;
 public class MainActivity extends AppCompatActivity implements TogaAdapter.ITogaAdapter {
 
     public static final String TOGA1 = "toga";
+    public static final String TAG = "COBA-COBA";
+    public static final String COBACOBA = "COBACOBA";
     ArrayList<Toga> mList = new ArrayList<>();
     TogaAdapter mAdapter;
 
@@ -35,13 +37,36 @@ public class MainActivity extends AppCompatActivity implements TogaAdapter.IToga
 
     }
 
+
     private void fillData() {
+        Integer anggota = getIntent().getIntExtra(main_menu.ANGT, 0);
         Resources resources = getResources();
         String[] arJudul = resources.getStringArray(R.array.places);
         String[] arDeskripsi = resources.getStringArray(R.array.place_desc);
         String[] arDetail = resources.getStringArray(R.array.place_details);
         String[] arLokasi = resources.getStringArray(R.array.place_locations);
         TypedArray a = resources.obtainTypedArray(R.array.places_picture);
+
+        if (anggota == 2) {
+            arJudul = resources.getStringArray(R.array.judulkepala);
+            arDeskripsi = resources.getStringArray(R.array.definisikepala);
+            arDetail = resources.getStringArray(R.array.gejalakepala);
+            arLokasi = resources.getStringArray(R.array.obatkepala);
+            a = resources.obtainTypedArray(R.array.gambarkepala);
+        } else if (anggota == 3) {
+            arJudul = resources.getStringArray(R.array.judultangan);
+            arDeskripsi = resources.getStringArray(R.array.definisitangan);
+            arDetail = resources.getStringArray(R.array.gejalatangan);
+            arLokasi = resources.getStringArray(R.array.obattangan);
+            a = resources.obtainTypedArray(R.array.gambartangan);
+        } else if (anggota == 4) {
+            arJudul = resources.getStringArray(R.array.judulkaki);
+            arDeskripsi = resources.getStringArray(R.array.definisikaki);
+            arDetail = resources.getStringArray(R.array.gejalakaki);
+            arLokasi = resources.getStringArray(R.array.obatkaki);
+            a = resources.obtainTypedArray(R.array.gambarkaki);
+        }
+
         String[] arFoto = new String[a.length()];
         for (int i = 0; i < arFoto.length; i++) {
             int id = a.getResourceId(i, 0);
@@ -63,6 +88,5 @@ public class MainActivity extends AppCompatActivity implements TogaAdapter.IToga
         Intent intent = new Intent(this, DetailActivity.class);
         intent.putExtra(TOGA1, mList.get(pos));
         startActivity(intent);
-
     }
 }
