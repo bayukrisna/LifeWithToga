@@ -33,35 +33,26 @@
         <item>Cacing kremi adalah cacing parasit kecil yang menjangkiti usus besar manusia. Parasit bernama latin Enterobius vermicularis ini memiliki fisik berwarna putih dan sekilas terlihat seperti benang putih. Cacing ini bisa terlihat pada sekitar lubang anus atau di tinja penderita.</item>
     </string-array>
     <string-array name="place_details">
-        <item>sering muntah, Anda menjadi sulit menelan dan mengalami penurunan berat badan, serta jika Anda dan telah menginjak berusia 55 tahun ke atas.
+        <item>-Sering muntah. \n-Anda menjadi sulit menelan. \n-Mengalami penurunan berat badan. .
         </item>
-        <item>Tubuh terasa kedinginan tidak karuan, cegukan, perut terasa kembung, dan menggigil.
+        <item>-Tubuh terasa kedinginan tidak karuan. \n-cegukan. \n-Perut terasa kembung. \n-Menggigil.
         </item>
-        <item>Gejala diare bermacam-macam, dimulai dari yang hanya merasakan sakit perut singkat dengan tinja yang tidak terlalu encer hingga ada yang mengalami kram perut dengan tinja yang sangat encer. Pada kasus diare parah, kemungkinan penderitanya juga akan mengalami demam dan kram perut hebat.
+        <item>Gejala diare bermacam-macam. \n\n-Dimulai dari yang hanya merasakan sakit perut singkat dengan tinja yang tidak terlalu encer. \n-Mengalami kram perut dengan tinja yang sangat encer. \n-Pada kasus diare parah, kemungkinan penderitanya juga akan mengalami demam dan kram perut hebat.
         </item>
-        <item>Jarang buang air besar, atau kurang dari sekali sehari "\n" Sulit buang air besar ,Kram otot perut ,Perut terasa berat,Sering buang gas atau kentut
-Lidah berlendir \n
-Sakit kepala \n
-Kehilangan nafsu makan \n
-Sakit pada paha atau betis \n
-Hipertensi atau tekanan darah tinggi \n
-Mual \n
-Vertigo \n
-Jantung berbebar-debar atau palpitasi \n
-Kantuk \n
+        <item>-Jarang buang air besar atau kurang dari sekali sehari. \n-Sulit buang air besar. \n-Kram otot perut. \n-Perut terasa berat. \n-Sering buang gas atau kentut. \n-Lidah berlendir. \n-Sakit kepala. \n-Kehilangan nafsu makan \n-Sakit pada paha atau betis. \n-Hipertensi atau tekanan darah tinggi. \n-Mual. \n-Vertigo. \n-Jantung berbebar-debar atau palpitasi. \n-Kantuk.
         </item>
-        <item>Gejala yang paling umum terjadi adalah nyeri perut atau mulas. Gejala-gejala lain yang mungkin Anda rasakan adalah kram di perut, mual, demam, hilangnya nafsu makan, dan tentu saja, dehidrasi. Saat diare disertai dengan muntah berulang kali, itu artinya Anda terserang muntaber.
+        <item>-Nyeri perut atau mulas. \n-Mual. \n-Demam. \n-Hilangnya nafsu makan. \n-Dehidrasi.
         </item>
         <item>Orang yang terjangkiti cacing kremi seringkali tidak merasakan gejala atau tanda apa pun. Namun, gejala umum yang sering dirasakan penderita adalah rasa gatal di sekitar anus dan vagina pada malam hari. Rasa gatal ini disebabkan oleh aktivitas cacing kremi saat menaruh telur-telurnya.
         </item>
     </string-array>
     <string-array name="place_locations">
         <item>Ramuan yang sering dimanfaatkan terbuat dari daun jambu biji. Siapkan 9 lembar daun jambu biji, rebus dan campur dengan 1,5 liter air. Air rebusan tadi bisa anda minum 3 kali sehari. Maag akan berangsur menghilang seiring asalkan anda menjalani terapi rebusan daun biji ini secara teratur dan konsisten.</item>
-        <item>Parut dulu jahe secukupnya, kemudian rebus sampai mendidih dan saring. Agar wedang jahe tak terlalu pedas, kamu bisa menambahkan air perasan lemon dan gula batu. Jika ingin lebih nikmat lagi, konsumsi wedang jahe bersama dengan pisang rebus atau camilan kesukaanmu lainnya.</item>
+        <item>Parut dulu jahe secukupnya, kemudian rebus sampai mendidih dan saring. Agar wedang jahe tak terlalu pedas, kamu bisa menambahkan air perasan lemon dan gula batu. \n\nJika ingin lebih nikmat lagi, konsumsi wedang jahe bersama dengan pisang rebus atau camilan kesukaanmu lainnya.</item>
         <item>Buah jambu biji ini juga dapat mengatasi Diare dan tidak hanya buahnya saja Daunnya pun dapat juga mengatasi diare. Cara mengkonsumsinya dengan memakan pucuk daun jambu biji dan dicampur dengan garam dapur. Secara langsung Obat tradisional ini akan cepat menghentikan terjadinya sakit perut atau diare.</item>
         <item>Setengah genggam daun keji beling segar dicuci hingga bersih. Kemudian rebus dengan dua gelas air sampai tersisa satu gelas. Saring dan minum.</item>
-        <item>Salah satu cara cepat untuk mengobati penyakit muntaber, dapat menggunakan daun sembung. Caranya, rebus 5 lembar pucuk daun sembung bersama 2 gelas air. Biarkan airnya mendidih dan berkurang segelas. Minum ramuan tradisional ini, 2 kali dalam sehari.</item>
-        <item>Kulit mangga yang biasanya dibuang begitu saja ternyata dapat dijadikan sebagai obat cacing. Daya antelmintik pada kulit mangga akan membantu mencegah penyakit cacing terutama untuk anak-anak, antelmintik juga sangat ampuh untuk membunuh kuman dan bakteri yang ada di dalam perut.
+        <item>Salah satu cara cepat untuk mengobati penyakit muntaber, dapat menggunakan daun sembung. \n\nCaranya, rebus 5 lembar pucuk daun sembung bersama 2 gelas air. Biarkan airnya mendidih dan berkurang segelas. Minum ramuan tradisional ini, 2 kali dalam sehari.</item>
+        <item>Kulit mangga yang biasanya dibuang begitu saja ternyata dapat dijadikan sebagai obat cacing. Daya antelmintik pada kulit mangga akan membantu mencegah penyakit cacing terutama untuk anak-anak, antelmintik juga sangat ampuh untuk membunuh kuman dan bakteri yang ada di dalam perut. \n\n
 
 Cara membuatnya: Selama kurang lebih 15 menit rebuslah kulit mangga, hal ini akan menjadikan zat antelmintik di kulit mangga keluar. Ambil dan taruhlah dalam gelas air rebusan kulit mangga tersebut kemudian minumlah dengan penuh semangat. Ternyata rebusan kulit mangga ini cukup ampuh membunuh bakteri jahat di dalam perut dan juga larva cacing. </item>
     </string-array>
@@ -92,28 +83,33 @@ Cara membuatnya: Selama kurang lebih 15 menit rebuslah kulit mangga, hal ini aka
         <item>Jerawat adalah masalah kulit yang ditandai dengan munculnya bintik-bintik pada beberapa bagian tubuh, seperti wajah, leher, punggung, dan dada. Bintik-bintik tersebut dapat berkisar mulai dari yang ringan, seperti komedo hitam dan komedo putih, hingga bintik-bintik parah yang berisi nanah dan kista.</item>
     </string-array>
     <string-array name="gejalakepala">
-        <item>Sakit kepala sangat parah yang terjadi secara tiba-tiba dan belum pernah dirasakan sebelumnya.
-Lengan dan/atau satu sisi wajah atau seluruh wajah, terasa lemas atau lumpuh.
-Sakit kepala yang bersamaan dengan demam, leher kaku, kebingungan, kejang, penglihatan ganda, dan ruam kulit.
-Bicara dan gerak bibir yang sulit dimengerti.
+        <item>-Sakit kepala sangat parah yang terjadi secara tiba-tiba dan belum pernah dirasakan sebelumnya.
+            \n-Lengan dan/atau satu sisi wajah atau seluruh wajah, terasa lemas atau lumpuh.
+            \n-Sakit kepala yang bersamaan dengan demam, leher kaku, kebingungan, kejang, penglihatan ganda, dan ruam kulit.
+            \n-Bicara dan gerak bibir yang sulit dimengerti.
         </item>
-        <item>Gejala yang berhubungan dengan vertigo adalah kehilangan keseimbangan. Tanda-tanda ini akan memicu pengidap vertigo mengalami kesulitan berdiri atau berjalan, mual, muntah, berkeringat, kadang disertai nistagmus (gerakan mata yang tidak normal) dan pusing.
+        <item>-Kehilangan keseimbangan.
+            \n-Mengalami kesulitan berdiri atau berjalan.
+            \n-Mual.
+            \n-Muntah.
+            \n-Berkeringat.
+            \n-Kadang disertai nistagmus (gerakan mata yang tidak normal) dan pusing.
         </item>
-        <item>Sensasi seperti mau pingsan.
-Sensasi limbung atau kehilangan keseimbangan.
-Vertigo, yaitu sekeliling terasa berputar.
+        <item>-Sensasi seperti mau pingsan.
+            \n-Sensasi limbung atau kehilangan keseimbangan.
+            \n-Vertigo, yaitu sekeliling terasa berputar.
         </item>
-        <item>Luka berwarna putih yang biasa muncul di lidah atau dinding mulut.
-Sensasi terbakar pada lidah.
-Rasa sakit saat menelan.
-Rasa tidak nyaman di dalam mulut.
+        <item>-Luka berwarna putih yang biasa muncul di lidah atau dinding mulut.
+            \n-Sensasi terbakar pada lidah.
+            \n-Rasa sakit saat menelan.
+            \n-Rasa tidak nyaman di dalam mulut.
         </item>
-        <item>Bengkak di sekitar gigi yang terinfeksi. \n
-                Pusing. \n
-                Rasa dan bau busuk dari gigi yang terinfeksi. \n
-                Demam. \n
+        <item>-Bengkak di sekitar gigi yang terinfeksi.
+                \n-Pusing.
+                \n-Rasa dan bau busuk dari gigi yang terinfeksi.
+                \n-Demam.
         </item>
-        <item>Timbulnya benjolan yang berwarna kemerahan atau kuning yang mengandung nanah. Ciri - ciri jerawat juga bisa dikelompokkan menjadi dua kategori yaitu jerawat yang meradang dan tidak meradang. \n\n
+        <item>Timbulnya benjolan yang berwarna kemerahan atau kuning yang mengandung nanah. \n\nCiri - ciri jerawat juga bisa dikelompokkan menjadi dua kategori yaitu jerawat yang meradang dan tidak meradang. \n\n
                 A. Jerawat Meradang \n
             Jerawat yang meradang ciri-cirinya berwarna kemerah-merahan dan terjadi peradangan serta pembengkakan, juga gejala adanya iritasi pada kulit. \n\n
                 B. Jerawat Tidak Meradang \n
@@ -121,16 +117,16 @@ Rasa tidak nyaman di dalam mulut.
         </item>
     </string-array>
     <string-array name="obatkepala">
-        <item> Buatlah jus lemon dari 1 buah lemon dan dicampur ke dalam gelas bersama air putih dan kita bisa gunakan kulitnya untuk dilumat lalu ditempel di dahi</item>
-        <item>Almond kaya akan asam lemak esensial, vitamin dan mineral. Nutrisi di dalamnya juga membantu tubuh untuk mengatasi serangan vertigo. Tidak hanya itu, almond juga berkhasiat untuk menyembuhkan kelelahan dan sakit kepala yang terjadi karena vertigo. Anda dapat mencampur bubuk almond dalam susu panas dan diminum di pagi hari.</item>
-        <item>Bahan-bahannya adalah sediakan daun jeruk nipis setengah lembar serta satu buah jeruk nipis. Cara membuatnya yaitu daun jeruk nipis tersebut ditumbuk sampai halus. Lalu masukkan kedalam wadah. Setelah itu, dicampur dengan perasan air jeruk nipis. Aduk merata. digunakan sebagai obat gosok yaitu caranya usapkan pada bagian bahu, tengkuk serta pelipis.</item>
-        <item>Percaya atau tidak, air kelapa dikenal denga pendinginannya sehingga dapat menenangkan sistem pencernaan. Selain baik untuk mengatasi dehidrasi, air kelapa juga baik untuk mengobati sariawan.</item>
+        <item>Buatlah jus lemon dari 1 buah lemon dan dicampur ke dalam gelas bersama air putih dan kita bisa gunakan kulitnya untuk dilumat lalu ditempel di dahi</item>
+        <item>Almond kaya akan asam lemak esensial, vitamin dan mineral. Nutrisi di dalamnya juga membantu tubuh untuk mengatasi serangan vertigo. Tidak hanya itu, almond juga berkhasiat untuk menyembuhkan kelelahan dan sakit kepala yang terjadi karena vertigo. \n\nAnda dapat mencampur bubuk almond dalam susu panas dan diminum di pagi hari.</item>
+        <item>Anda bisa menggunakan ramuan jeruk nipis. \n\nBahan-bahannya adalah sediakan daun jeruk nipis setengah lembar serta satu buah jeruk nipis. \n\nCara membuatnya yaitu daun jeruk nipis tersebut ditumbuk sampai halus. Lalu masukkan kedalam wadah. Setelah itu, dicampur dengan perasan air jeruk nipis. Aduk merata. digunakan sebagai obat gosok yaitu caranya usapkan pada bagian bahu, tengkuk serta pelipis.</item>
+        <item>Percaya atau tidak, air kelapa dikenal dengan pendinginannya sehingga dapat menenangkan sistem pencernaan. Selain baik untuk mengatasi dehidrasi, air kelapa juga baik untuk mengobati sariawan.</item>
         <item>Disarankan menggunakan minyak cengkeh. Adapun cara penggunaannya adalah dengan cara menuang minyak secukupnya pada kapas lalu tempelkan pada bagian yang sakit. Usahakan dijepit atau digigit agar tak lepas.Biarkan dalam waktu lama dan ganti bisa sudah terasa kurang efeknya.</item>
         <item>Cara Menghilangkan Jerawat Menggunakan Bawang Putih \n\n
-Ambil bawang putih dan potong 1 siung bawang putih menjadi 2 bagian \n
-Gosok-gosokkan bawang putih yang telah dipotong ke jerawat dan biarkan selama 5-10 menit \n
-Cucilah wajah menggunakan air bersih \n
-Lakukan ini secara rutin hingga mendapatkan hasil yang maksimal</item>
+            -Ambil bawang putih dan potong 1 siung bawang putih menjadi 2 bagian \n
+            -Gosok-gosokkan bawang putih yang telah dipotong ke jerawat dan biarkan selama 5-10 menit \n
+            -Cucilah wajah menggunakan air bersih \n
+            -Lakukan ini secara rutin hingga mendapatkan hasil yang maksimal</item>
     </string-array>
     <array name="gambarkepala">
         <item>@drawable/juslemon</item>
@@ -159,42 +155,28 @@ Lakukan ini secara rutin hingga mendapatkan hasil yang maksimal</item>
         <item>Kram adalah pengerutan pada otot, yang muncul secara tiba-tiba dan menyebabkan nyeri. Kram bisa sembuh dengan sendirinya selama beberapa detik, menit, atau jam, tergantung dari kontraksi tersebut, dan kram dapat terjadi pada otot rangka atau otot polos.</item>
     </string-array>
     <string-array name="gejalatangan">
-        <item>Keluar darah. \n
-            Jaringan kulit luar robek akibat tergores. \n
-            Timbul rasa sakit dan perih. \n
-            Terkadang juga akan mengakibatkan kepala pusing.
+        <item>-Kulit terasa tidak nyaman. \n-Warna kulit menjadi kemerahan. \n-Kadang disertai bentolan kecil - kecil. \n-Kulit terasa kering dan lebih sensitif.
         </item>
-        <item>Kulit terasa tidak nyaman. \n
-            Warna kulit menjadi kemerahan. \n
-            Kadang disertai bentolan kecil - kecil. \n
-            Kulit terasa kering dan lebih sensitif.
+        <item>-Keluar darah.
+            \n-Jaringan kulit luar robek akibat tergores.
+            \n-Timbul rasa sakit dan perih.
+            \n-Terkadang juga akan mengakibatkan kepala pusing.
         </item>
-        <item>Kekauan sendi di pagi hari. \n
-            Pembengkakan dan nyeri sendi. \n
-            Adanya benjolan atau nodul. \n
-            Penumpukan cairan.
+        <item>-Kekauan sendi di pagi hari. \n-Pembengkakan dan nyeri sendi. \n-Adanya benjolan atau nodul. \n-Penumpukan cairan.
         </item>
         <item>Kuku menjadi tipis dan datar atau cekung.
         </item>
-        <item>Kulit bersisik dan kasar \n
-            Mudah tergores atau tergesek benda \n
-            Akan menimbulkan bekas jika tergesek ssesuatu \n
+        <item>-Kulit bersisik dan kasar \n-Mudah tergores atau tergesek benda \n-Akan menimbulkan bekas jika tergesek ssesuatu \n
         </item>
-        <item>Tangan terasa lemah untuk digerakan. \n
-            Mati rasa. \n
-            Tangan terasa kaku dan terasa sakit. \n
-            Terkadang juga menyebabkan perubahan warna kulit menjadi kemerahan.
+        <item>-Tangan terasa lemah untuk digerakan. \n-Mati rasa. \n-Tangan terasa kaku dan terasa sakit. \n-Terkadang juga menyebabkan perubahan warna kulit menjadi kemerahan.
         </item>
     </string-array>
     <string-array name="obattangan">
-        <item>Lidah Buaya Dipercaya Dapat Mengatasi Gatal Di Badan. Kandungan aloe vera yang terdapat dalam gell lidah buaya mampu untuk menghilangkan gatal di badan. Tidak banyak cara untuk menggunakan gell lidah buaya sebagai obat gatal Anda. Cukup Anda ambil lidah buaya dan potong menjadi dua. Lalu ambil gell lidah buaya dan oleskan terhadap badan yang terasa gatal. Memang untuk pengobatan yang sebentar tidak akan langsung terasa efeknya. Oleh karena itu lakukan hal ini sesering mungkin demi untuk proses penyembuhan lebih cepat lagi.</item>
+        <item>Lidah Buaya Dipercaya Dapat Mengatasi Gatal Di Badan. Kandungan aloe vera yang terdapat dalam gell lidah buaya mampu untuk menghilangkan gatal di badan. Tidak banyak cara untuk menggunakan gell lidah buaya sebagai obat gatal Anda. \n\nCukup Anda ambil lidah buaya dan potong menjadi dua. Lalu ambil gell lidah buaya dan oleskan terhadap badan yang terasa gatal. Memang untuk pengobatan yang sebentar tidak akan langsung terasa efeknya. Oleh karena itu lakukan hal ini sesering mungkin demi untuk proses penyembuhan lebih cepat lagi.</item>
         <item>Minyak kelapa memiliki sejuta manfaat, juga dapat menyembuhkan luka dengan efektif. Minyak nabati ini memiliki sifat antibakteri dan antijamur yang menakjubkan dan bahkan dapat mencegah luka jaringan parut. Oleskan minyak kelapa pada luka untuk membantu mempercepat penyebuhannya 2 atau 3 kali sehari</item>
         <item>Cara pengobatan penyakit rematik dengan ramuan herbal sangat mudah untuk dibuat dan juga tak kalah khasiatnya untuk mengatasi rematik adalah dengan menggunakan daun belimbing wuluh muda. Cara membuatnya cukup sediakan sebanyak 100 gram daun belimbing wuluh muda, cengkeh sebanyak 10 biji, merica sebanyak 15 biji, serta cuka secukupnya. Kemudian giling hingga halus semua bahan-bahan tersebut. Ramuan ini juga hanya obat untuk pemakaian luar, cara menggunakannya cukup oleskan pada bagian yang sakit sebanyak yang diperlukan.</item>
-        <item>Menggunakan minyak lemon esensial untuk membersihkan kuku. \n
-             Rendam dengan air hangat dan gosok dengan sikat halus. \n
-             Hindari memakai kuteks berwarna terang. \n
-            Istirahatkan kuku Anda dari pemakaian kuteks selama beberapa bulan.</item>
-        <item>Mentimun \n
+        <item>Menggunakan minyak lemon esensial untuk membersihkan kuku. \n-Rendam dengan air hangat dan gosok dengan sikat halus. \n-Hindari memakai kuteks berwarna terang. \n-Istirahatkan kuku Anda dari pemakaian kuteks selama beberapa bulan.</item>
+        <item>Kita dapat menggunakan mentimun \n\n
         Selain untuk wajah, ternyata timun juga dapat bermanfaat untuk kulit kaki dan tangan. Pertama kupas dan cuci timun hingga bersih. Lalu haluskan menggunakan blender atau parut. Setelah itu oleskan pada bagian tubuh yang diinginkan.</item>
         <item>Kulit Manggis kaya akan kandungan vitamin B1, B2 dan C, serta kalsium, potassium, dan zat besi yang baik untuk tubuh dan tulang.
         \n\n
@@ -230,31 +212,17 @@ Lakukan ini secara rutin hingga mendapatkan hasil yang maksimal</item>
         <item>Kapalan atau callus biasanya muncul pada kaki, tumit, tangan, atau jari, dan bisa menyebabkan rasa tidak nyaman dan nyeri saat berjalan atau beraktivitas. Kapalan merupakan reaksi alami tubuh untuk melindungi bagian kulit..</item>
     </string-array>
     <string-array name="gejalakaki">
-        <item>Nyeri sendi, Pembengkakan, Kekakuan sendi, Perubahan warna kulit merah-kebiruan.
+        <item>-Nyeri sendi. \n-Pembengkakan. \n-Kekakuan sendi. \n-Perubahan warna kulit merah-kebiruan.
         </item>
-        <item>Kekauan sendi di pagi hari. \n
-            Pembengkakan dan nyeri sendi. \n
-            Adanya benjolan atau nodul. \n
-            Penumpukan cairan.
+        <item>-Kekauan sendi di pagi hari. \n-Pembengkakan dan nyeri sendi. \n-Adanya benjolan atau nodul. \n-Penumpukan cairan.
         </item>
-        <item>Kaki sulit digerakan. \n
-            Kaki serasa seperti tersengat listrik ringan. \n
-            Kaki mendapat sensasi seperti dirumuti oleh banyak semut.
+        <item>-Kaki sulit digerakan. \n-Kaki serasa seperti tersengat listrik ringan. \n-Kaki mendapat sensasi seperti dirumuti oleh banyak semut.
         </item>
-        <item>Keluar darah. \n
-            Jaringan kulit luar robek akibat tergores. \n
-            Timbul rasa sakit dan perih. \n
-            Terkadang juga akan mengakibatkan kepala pusing.
+        <item>-Keluar darah. \n-Jaringan kulit luar robek akibat tergores. \n-Timbul rasa sakit dan perih. \n-Terkadang juga akan mengakibatkan kepala pusing.
         </item>
-        <item>Kulit terasa tidak nyaman. \n
-            Warna kulit menjadi kemerahan. \n
-            Kadang disertai bentolan kecil - kecil. \n
-            Kulit terasa kering dan lebih sensitif.
+        <item>-Kulit terasa tidak nyaman. \n-Warna kulit menjadi kemerahan. \n-Kadang disertai bentolan kecil - kecil. \n-Kulit terasa kering dan lebih sensitif.
         </item>
-        <item>Kulit berubah menjadi kering atau pecah - pecah. \n
-    Rasa nyeri atau sakit saat disentuh pada bagian bawah kulit. \n
-    Ada sebagian kulit yang terasa kasar dan menebal. \n
-    Timbulnya benjolan yang mengeras pada kulit. \n
+        <item>-Kulit berubah menjadi kering atau pecah - pecah. \n-Rasa nyeri atau sakit saat disentuh pada bagian bawah kulit. \n-Ada sebagian kulit yang terasa kasar dan menebal. \n-Timbulnya benjolan yang mengeras pada kulit.
         </item>
     </string-array>
     <string-array name="obatkaki">

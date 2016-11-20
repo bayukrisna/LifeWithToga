@@ -24,7 +24,9 @@ public class DetailActivity extends AppCompatActivity {
         ImageView ivFoto = (ImageView) findViewById(R.id.imageFoto);
         ivFoto.setImageURI(Uri.parse(toga.foto));
         TextView tvDeskripsi = (TextView) findViewById(R.id.place_detail);
-        tvDeskripsi.setText(toga.deskripsi + "\n\n" + toga.detail);
+        tvDeskripsi.setText(toga.detail + "\n\n");
+        TextView tvGejala = (TextView) findViewById(R.id.place_desc);
+        tvGejala.setText(toga.deskripsi + "\n\n");
         TextView tvLokasi = (TextView) findViewById(R.id.place_location);
         tvLokasi.setText(toga.lokasi);
 
