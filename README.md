@@ -18,6 +18,9 @@ LifeWithToga
 
 ### C. Screenshoot Aplikasi
 ![1.png](https://s22.postimg.org/8cca357c1/1_dadi.png)
+![2.png](https://s12.postimg.org/axigee1bx/Screenshot_2016_11_20_21_15_50_1.png)
+
+
 
 ### D. Video Aplikasi
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
