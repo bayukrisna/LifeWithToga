@@ -21,25 +21,25 @@ public class main_menu extends AppCompatActivity {
                 hasilPindah(1);
             }
         });
-        findViewById(R.id.headUp).setOnClickListener(new View.OnClickListener() {
+        findViewById(R.id.head).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 hasilPindah(2);
             }
         });
-        findViewById(R.id.handLeft).setOnClickListener(new View.OnClickListener() {
+        findViewById(R.id.hand).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 hasilPindah(3);
             }
         });
-        findViewById(R.id.handRight).setOnClickListener(new View.OnClickListener() {
+        findViewById(R.id.hand2).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 hasilPindah(3);
             }
         });
-        findViewById(R.id.legUnder).setOnClickListener(new View.OnClickListener() {
+        findViewById(R.id.leg).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 hasilPindah(4);
