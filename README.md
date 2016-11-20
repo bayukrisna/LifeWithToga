@@ -17,7 +17,7 @@ LifeWithToga
 
 ### C. Screenshoot Aplikasi
 Mainmenu <br>
-![1.png](https://s13.postimg.org/sath9v3p3/mainmenu.png) <br>
+[![Screenshot_1479658341.png](https://s15.postimg.org/g9z13o5rf/Screenshot_1479658341.png)](https://postimg.org/image/5n57y8xlz/) <br>
 List Informasi Penyakit <br>
 ![3.png](https://s15.postimg.org/6nrjdocdn/list.png) <br>
 Detail Informasi Penyakit <br>
@@ -32,7 +32,7 @@ Daftar Musik Klasik <br>
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ### E. Link File APK dari Aplikasi
-<p> http://www.mediafire.com/file/473b11ofa9ftbtd/LifeWithToga.apk </p> 
+<p> https://drive.google.com/open?id=0ByZQ_ZZSxg3-UFZxaXp2Y1MzUjQ </p> 
 
 ### F. Identitas Masing - Masing Anggota
 #### Anggota 1
