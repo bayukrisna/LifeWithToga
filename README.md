@@ -14,12 +14,16 @@ LifeWithToga
 
 #### Special Features
 - Aplikasi ini dilengkapi dengan fitur tambahan berupa deretan musik klasik.
-- Aplikasi ini dilengkapi dengan informasi - informasi gizi yang diutuhkan oleh manusia.
 
 ### C. Screenshoot Aplikasi
-![1.png](https://s22.postimg.org/8cca357c1/1_dadi.png)
-![2.png](https://s12.postimg.org/axigee1bx/Screenshot_2016_11_20_21_15_50_1.png)
-
+Mainmenu <br>
+![1.png](https://s13.postimg.org/sath9v3p3/mainmenu.png) <br>
+List Informasi Penyakit <br>
+![3.png](https://s15.postimg.org/6nrjdocdn/list.png) <br>
+Detail Informasi Penyakit <br>
+![4.png](https://s17.postimg.org/esv9os4lb/detail.png) <br>
+Daftar Musik Klasik <br>
+![2.png](https://s12.postimg.org/pwrz05fjh/musik.png)
 
 
 ### D. Video Aplikasi
@@ -28,7 +32,7 @@ LifeWithToga
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ### E. Link File APK dari Aplikasi
-<p> http://www.mediafire.com/download/l19r5ahr5q5k2f2/app-debug.apk </p>
+<p>  </p> 
 
 ### F. Identitas Masing - Masing Anggota
 #### Anggota 1
