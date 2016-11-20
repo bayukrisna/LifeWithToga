@@ -24,24 +24,25 @@ LifeWithToga
 ### E. Link File APK dari Aplikasi
 
 ### F. Identitas Masing - Masing Anggota
+#### Anggota 1
 - Nama          : Bayu Krisna
 - Kelas         : XI RPL 1
 - No. Urut      : 08
 - NIS           : 4684/1403.070
 - Nama Sekolah  : SMK Telkom Malang
-
+#### Anggota 2
 - Nama          : M.Gerald Junhakristama
 - Kelas         : XI RPL 1
 - No. Urut      : 17
 - NIS           : 4742/1461.070
 - Nama Sekolah  : SMK Telkom Malang
-
+#### Anggota 3
 - Nama          : Pradigma Ayu Naratryka
 - Kelas         : XI RPL 1
 - No. Urut      : 08
 - NIS           : 4800/1519.070
 - Nama Sekolah  : SMK Telkom Malang
-
+#### Anggota 4
 - Nama          : Yobel Galih Christian Dwiatma
 - Kelas         : XI RPL 1
 - No. Urut      : 35
