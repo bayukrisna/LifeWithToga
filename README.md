@@ -18,7 +18,7 @@ LifeWithToga
 
 ### C. Screenshoot Aplikasi
 Mainmenu <br>
-[![Screenshot_1479658341.png](https://s15.postimg.org/8hqsirb4b/mainmenu.png) <br>
+[![Screenshot_1479658341.png](https://s12.postimg.org/8zo1uy02l/mainmenu.png)<br>
 List Informasi Penyakit <br>
 ![3.png](https://s15.postimg.org/6nrjdocdn/list.png) <br>
 Detail Informasi Penyakit <br>
