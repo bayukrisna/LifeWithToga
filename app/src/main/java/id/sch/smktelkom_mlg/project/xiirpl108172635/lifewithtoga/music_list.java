@@ -1,7 +1,6 @@
 package id.sch.smktelkom_mlg.project.xiirpl108172635.lifewithtoga;
 
 import android.content.Intent;
-import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
@@ -16,109 +15,92 @@ public class music_list extends AppCompatActivity {
 
         ImageView play1 = (ImageView) findViewById(R.id.play1);
         ImageView pause1 = (ImageView) findViewById(R.id.ppause1);
-
-        final MediaPlayer mp = MediaPlayer.create(music_list.this, R.raw.lagu1);
+        ImageView play2 = (ImageView) findViewById(R.id.play2);
+        ImageView pause2 = (ImageView) findViewById(R.id.pause2);
+        ImageView play3 = (ImageView) findViewById(R.id.play3);
+        ImageView pause3 = (ImageView) findViewById(R.id.pause3);
+        ImageView play4 = (ImageView) findViewById(R.id.play4);
+        ImageView pause4 = (ImageView) findViewById(R.id.pause4);
+        ImageView play5 = (ImageView) findViewById(R.id.play5);
+        ImageView pause5 = (ImageView) findViewById(R.id.pause5);
+        ImageView play6 = (ImageView) findViewById(R.id.play6);
+        ImageView pause6 = (ImageView) findViewById(R.id.pause6);
 
         play1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                mp.start();
+                musicPlayer.playing(music_list.this, R.raw.lagu1);
             }
         });
         pause1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                mp.pause();
+                musicPlayer.pausing();
             }
         });
-
-        ImageView play2 = (ImageView) findViewById(R.id.play2);
-        ImageView pause2 = (ImageView) findViewById(R.id.pause2);
-
-        final MediaPlayer mp2 = MediaPlayer.create(music_list.this, R.raw.lagu2);
 
         play2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                mp2.start();
+                musicPlayer.playing(music_list.this, R.raw.lagu2);
             }
         });
         pause2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                mp2.pause();
+                musicPlayer.pausing();
             }
         });
-
-        ImageView play3 = (ImageView) findViewById(R.id.play3);
-        ImageView pause3 = (ImageView) findViewById(R.id.pause3);
-
-        final MediaPlayer mp3 = MediaPlayer.create(music_list.this, R.raw.lagu3);
 
         play3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                mp3.start();
+                musicPlayer.playing(music_list.this, R.raw.lagu3);
             }
         });
         pause3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                mp3.pause();
+                musicPlayer.pausing();
             }
         });
-
-        ImageView play4 = (ImageView) findViewById(R.id.play4);
-        ImageView pause4 = (ImageView) findViewById(R.id.pause4);
-
-        final MediaPlayer mp4 = MediaPlayer.create(music_list.this, R.raw.lagu4);
 
         play4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                mp4.start();
+                musicPlayer.playing(music_list.this, R.raw.lagu4);
             }
         });
         pause4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                mp4.pause();
+                musicPlayer.pausing();
             }
         });
-
-        ImageView play5 = (ImageView) findViewById(R.id.play5);
-        ImageView pause5 = (ImageView) findViewById(R.id.pause5);
-
-        final MediaPlayer mp5 = MediaPlayer.create(music_list.this, R.raw.lagu5);
 
         play5.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                mp5.start();
+                musicPlayer.playing(music_list.this, R.raw.lagu5);
             }
         });
         pause5.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                mp5.pause();
+                musicPlayer.pausing();
             }
         });
-
-        ImageView play6 = (ImageView) findViewById(R.id.play6);
-        ImageView pause6 = (ImageView) findViewById(R.id.pause6);
-
-        final MediaPlayer mp6 = MediaPlayer.create(music_list.this, R.raw.lagu6);
 
         play6.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                mp6.start();
+                musicPlayer.playing(music_list.this, R.raw.lagu6);
             }
         });
         pause6.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                mp6.pause();
+                musicPlayer.pausing();
             }
         });
 
