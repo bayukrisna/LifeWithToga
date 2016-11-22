@@ -157,5 +157,14 @@
         android:layout_toStartOf="@+id/gizigizi"
         android:text="Kaki"/>
 
+    <ImageButton
+        android:id="@+id/imageButton3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        app:srcCompat="@android:drawable/ic_menu_myplaces"/>
+
 
 </RelativeLayout>

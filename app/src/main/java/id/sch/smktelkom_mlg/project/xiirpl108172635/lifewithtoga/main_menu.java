@@ -60,6 +60,12 @@ public class main_menu extends AppCompatActivity {
                 next2(2);
             }
         });
+        findViewById(R.id.imageButton3).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                next3();
+            }
+        });
     }
 
     private void next() {
@@ -71,6 +77,11 @@ public class main_menu extends AppCompatActivity {
         Intent intent = new Intent(main_menu.this, infogizi.class);
         intent.putExtra(GIZ, giz);
 
+        startActivity(intent);
+    }
+
+    private void next3() {
+        Intent intent = new Intent(main_menu.this, AboutActivity.class);
         startActivity(intent);
     }
 
