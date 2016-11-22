@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2016 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string-array name="judulgizi">
+        <item>Vitamin A</item>
+        <item>Vitamin B1</item>
+        <item>Vitamin B3</item>
+        <item>Vitamin B5</item>
+        <item>Vitamin B6</item>
+        <item>Vitamin B7</item>
+        <item>Vitamin B9</item>
+        <item>Vitamin B12</item>
+        <item>Vitamin C</item>
+        <item>Vitamin D</item>
+        <item>Vitamin E</item>
+        <item>Vitamin K</item>
+        <item>Kalsium</item>
+        <item>Selenium</item>
+        <item>Kromium</item>
+        <item>Magnesium</item>
+        <item>Zat Besi</item>
+        <item>Zinc</item>
+    </string-array>
+    <string-array name="sumbergizi">
+        <item>Melon, mangga, tomat</item>
+        <item>susu, kacang, kentang.</item>
+        <item>tomat, kacang, alpukat</item>
+        <item>tomat, strawberry, alpukat</item>
+        <item>pisang, kacang, alpukat</item>
+        <item>gandum, almond, anggur</item>
+        <item>wijen, kacang mate, alpukat</item>
+        <item>jeruk, semangka, melon</item>
+        <item>jeruk, lemon, kiwi</item>
+        <item>jeruk, yogurt, bayam</item>
+        <item>almond, wijen, alpukat</item>
+        <item>brokoli, kiwi, kubis</item>
+        <item>sayuran berdaun hijau</item>
+        <item>biji-bijian</item>
+        <item>gandum, merica hitam</item>
+        <item>gandum, kedelai, bayam</item>
+        <item>bayam, brokoli, kangkung</item>
+        <item>alpukat, kubis, wortel</item>
+    </string-array>
+    <array name="gambargizi">
+        <item>@drawable/vita</item>
+        <item>@drawable/b1</item>
+        <item>@drawable/b3</item>
+        <item>@drawable/b5</item>
+        <item>@drawable/b6</item>
+        <item>@drawable/b7</item>
+        <item>@drawable/b9</item>
+        <item>@drawable/b12</item>
+        <item>@drawable/vitc</item>
+        <item>@drawable/vitd</item>
+        <item>@drawable/vite</item>
+        <item>@drawable/vitk</item>
+        <item>@drawable/kalsium</item>
+        <item>@drawable/selenium</item>
+        <item>@drawable/kromium</item>
+        <item>@drawable/magnesium</item>
+        <item>@drawable/zatbesi</item>
+        <item>@drawable/zinc</item>
+    </array>
+</resources>

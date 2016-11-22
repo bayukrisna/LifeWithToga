@@ -15,15 +15,6 @@
     android:weightSum="1"
     tools:context="id.sch.smktelkom_mlg.project.xiirpl108172635.lifewithtoga.MainActivity">
 
-    <ImageView
-        android:id="@+id/imageView2"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_weight="0.52"
-        app:srcCompat="@drawable/body3" />
-
     <ImageButton
         android:id="@+id/body"
         android:layout_width="100dp"
@@ -88,6 +79,27 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:background="@null" />
+
+    <ImageButton
+        android:id="@+id/gizigizi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/imageButton"
+        android:layout_alignLeft="@+id/imageButton"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignStart="@+id/imageButton"
+        app:srcCompat="@android:drawable/ic_dialog_info"/>
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_weight="0.52"
+        app:srcCompat="@drawable/body3"/>
 
 
 </RelativeLayout>

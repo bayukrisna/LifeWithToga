@@ -8,6 +8,7 @@ import android.view.View;
 public class main_menu extends AppCompatActivity {
 
     public static final String ANGT = "Angt";
+    public static final String GIZ = "giz";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -53,10 +54,23 @@ public class main_menu extends AppCompatActivity {
 
 
         });
+        findViewById(R.id.gizigizi).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                next2(2);
+            }
+        });
     }
 
     private void next() {
         Intent intent = new Intent(main_menu.this, music_list.class);
+        startActivity(intent);
+    }
+
+    public void next2(Integer giz) {
+        Intent intent = new Intent(main_menu.this, infogizi.class);
+        intent.putExtra(GIZ, giz);
+
         startActivity(intent);
     }
 
