@@ -18,15 +18,17 @@ LifeWithToga
 
 ### C. Screenshoot Aplikasi
 Mainmenu <br>
-[![Screenshot_1479658341.png](https://s12.postimg.org/8zo1uy02l/mainmenu.png)<br>
+[![Screenshot_1479658341.png](https://s12.postimg.org/8zo1uy02l/mainmenu.png) <br>
 List Informasi Penyakit <br>
 ![3.png](https://s15.postimg.org/6nrjdocdn/list.png) <br>
 Detail Informasi Penyakit <br>
 ![4.png](https://s17.postimg.org/esv9os4lb/detail.png) <br>
 Daftar Musik Klasik <br>
 ![2.png](https://s12.postimg.org/pwrz05fjh/musik.png) <br>
-Dafftar Informasi Gizi <br>
-![2.png](https://s18.postimg.org/pcri6o2a1/listgizi.png)
+Daftar Informasi Gizi <br>
+![2.png](https://s18.postimg.org/pcri6o2a1/listgizi.png) <br>
+Halaman About <br>
+![2.png](https://s13.postimg.org/51sukfzfb/about.png)
 
 
 ### D. Video Aplikasi
