@@ -55,6 +55,26 @@
         <item>bayam, brokoli, kangkung</item>
         <item>alpukat, kubis, wortel</item>
     </string-array>
+    <string-array name="manfaat">
+        <item>Vitamin A</item>
+        <item>Vitamin B1</item>
+        <item>Vitamin B3</item>
+        <item>Vitamin B5</item>
+        <item>Vitamin B6</item>
+        <item>Vitamin B7</item>
+        <item>Vitamin B9</item>
+        <item>Vitamin B12</item>
+        <item>Vitamin C</item>
+        <item>Vitamin D</item>
+        <item>Vitamin E</item>
+        <item>Vitamin K</item>
+        <item>Kalsium</item>
+        <item>Selenium</item>
+        <item>Kromium</item>
+        <item>Magnesium</item>
+        <item>Zat Besi</item>
+        <item>Zinc</item>
+    </string-array>
     <array name="gambargizi">
         <item>@drawable/vita</item>
         <item>@drawable/b1</item>

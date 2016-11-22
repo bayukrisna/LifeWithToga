@@ -101,5 +101,61 @@
         android:layout_weight="0.52"
         app:srcCompat="@drawable/body3"/>
 
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="Kepala"/>
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/hand2"
+        android:layout_marginTop="62dp"
+        android:layout_toLeftOf="@+id/leg"
+        android:layout_toStartOf="@+id/leg"
+        android:text="Tangan"/>
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textView10"
+        android:layout_toEndOf="@+id/leg"
+        android:layout_toRightOf="@+id/leg"
+        android:text="Tangan"/>
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView13"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="49dp"
+        android:text="Perut"/>
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/gizigizi"
+        android:layout_alignLeft="@+id/textView10"
+        android:layout_alignStart="@+id/textView10"
+        android:layout_marginBottom="18dp"
+        android:text="Kaki"/>
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textView16"
+        android:layout_alignBottom="@+id/textView16"
+        android:layout_toLeftOf="@+id/gizigizi"
+        android:layout_toStartOf="@+id/gizigizi"
+        android:text="Kaki"/>
+
 
 </RelativeLayout>
