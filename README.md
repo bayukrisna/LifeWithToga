@@ -37,7 +37,7 @@ Halaman About <br>
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ### E. Link File APK dari Aplikasi
-<p> http://www.mediafire.com/file/2u1r6bdz4rff8dg/app-debug%282%29.apk </p> 
+<p> https://drive.google.com/open?id=0ByZQ_ZZSxg3-SGllR2s4cjZQS0U </p> 
 
 ### F. Identitas Masing - Masing Anggota
 #### Anggota 1
