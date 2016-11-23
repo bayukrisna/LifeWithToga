@@ -29,7 +29,7 @@ public class music_list extends AppCompatActivity {
         play1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                musicPlayer.playing(music_list.this, R.raw.lagu1);
+                musicPlayer.playing(music_list.this, R.raw.lagu1, "play1");
             }
         });
         pause1.setOnClickListener(new View.OnClickListener() {
@@ -42,7 +42,7 @@ public class music_list extends AppCompatActivity {
         play2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                musicPlayer.playing(music_list.this, R.raw.lagu2);
+                musicPlayer.playing(music_list.this, R.raw.lagu2, "play2");
             }
         });
         pause2.setOnClickListener(new View.OnClickListener() {
@@ -55,7 +55,7 @@ public class music_list extends AppCompatActivity {
         play3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                musicPlayer.playing(music_list.this, R.raw.lagu3);
+                musicPlayer.playing(music_list.this, R.raw.lagu3, "play3");
             }
         });
         pause3.setOnClickListener(new View.OnClickListener() {
@@ -68,7 +68,7 @@ public class music_list extends AppCompatActivity {
         play4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                musicPlayer.playing(music_list.this, R.raw.lagu4);
+                musicPlayer.playing(music_list.this, R.raw.lagu4, "play4");
             }
         });
         pause4.setOnClickListener(new View.OnClickListener() {
@@ -81,7 +81,7 @@ public class music_list extends AppCompatActivity {
         play5.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                musicPlayer.playing(music_list.this, R.raw.lagu5);
+                musicPlayer.playing(music_list.this, R.raw.lagu5, "play5");
             }
         });
         pause5.setOnClickListener(new View.OnClickListener() {
@@ -94,7 +94,7 @@ public class music_list extends AppCompatActivity {
         play6.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                musicPlayer.playing(music_list.this, R.raw.lagu6);
+                musicPlayer.playing(music_list.this, R.raw.lagu6, "play6");
             }
         });
         pause6.setOnClickListener(new View.OnClickListener() {
