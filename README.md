@@ -32,8 +32,8 @@ Halaman About <br>
 
 
 ### D. Video Aplikasi
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+<a href="https://www.youtube.com/watch?v=MsRl2dDtplU&feature=youtu.be
+" target="_blank"><img src="https://s15.postimg.org/d4ttem6wb/Capture.png" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ### E. Link File APK dari Aplikasi
