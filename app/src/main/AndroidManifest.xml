@@ -5,7 +5,7 @@
     <application
         android:allowBackup="true"
         android:hardwareAccelerated="false"
-        android:icon="@mipmap/tubuh"
+        android:icon="@mipmap/plant_icon"
         android:label="@string/app_name"
         android:largeHeap="true"
         android:supportsRtl="true"
