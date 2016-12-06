@@ -25,6 +25,7 @@
         android:ellipsize="end"
         android:maxLines="1"
         android:textAppearance="@style/TextAppearance.AppCompat.Title"
+        android:textColor="@android:color/black"
         tools:text="Judul"/>
 
     <TextView
@@ -37,6 +38,7 @@
         android:ellipsize="end"
         android:maxLines="2"
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textColor="@android:color/black"
         tools:text="Sumber Gizi"/>
 
 </RelativeLayout>

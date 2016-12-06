@@ -22,12 +22,15 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="16dp"
             android:text="Definisi Penyakit"
-            android:textColor="?attr/colorAccent"/>
+            android:textColor="@android:color/holo_green_dark"
+            android:textSize="20sp"/>
 
         <TextView
             android:id="@+id/place_desc"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:textColor="@android:color/black"
+            android:textSize="18sp"
             tools:text="deskripsi"/>
 
         <TextView
@@ -35,12 +38,15 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="16dp"
             android:text="Gejala Penyakit"
-            android:textColor="?attr/colorAccent"/>
+            android:textColor="@android:color/holo_green_dark"
+            android:textSize="20sp"/>
 
         <TextView
             android:id="@+id/place_detail"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:textColor="@android:color/black"
+            android:textSize="18sp"
             tools:text="Gejala"/>
 
 
@@ -49,12 +55,15 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="16dp"
             android:text="Cara Pembuatan Obat"
-            android:textColor="?attr/colorAccent"/>
+            android:textColor="@android:color/holo_green_dark"
+            android:textSize="20sp"/>
 
         <TextView
             android:id="@+id/place_location"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:textColor="@android:color/black"
+            android:textSize="18sp"
             tools:text="Lokasi"/>
 
     </LinearLayout>

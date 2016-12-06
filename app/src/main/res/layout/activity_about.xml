@@ -6,6 +6,7 @@
     android:id="@+id/activity_about"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@android:color/white"
     android:paddingBottom="@dimen/activity_vertical_margin"
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
@@ -19,7 +20,8 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="210dp"
-        android:text="Bayu Krisna / 08 / XI RPL 1 "/>
+        android:text="Bayu Krisna / 08 / XI RPL 1 "
+        android:textColor="@android:color/black"/>
 
     <TextView
         android:id="@+id/textView12"
@@ -28,7 +30,8 @@
         android:layout_below="@+id/textView11"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="21dp"
-        android:text="M. Gerald Junha  / 17 / XI RPL 1 "/>
+        android:text="M. Gerald Junha  / 17 / XI RPL 1 "
+        android:textColor="@android:color/black"/>
 
     <TextView
         android:id="@+id/textView17"
@@ -37,7 +40,8 @@
         android:layout_below="@+id/textView12"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="21dp"
-        android:text="Pradigma Ayu Naratika / 26 / XI RPL 1"/>
+        android:text="Pradigma Ayu Naratika / 26 / XI RPL 1"
+        android:textColor="@android:color/black"/>
 
     <TextView
         android:id="@+id/textView18"
@@ -46,7 +50,8 @@
         android:layout_below="@+id/textView17"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="25dp"
-        android:text="Yobel Galih Christian / 35 / XI RPL 1"/>
+        android:text="Yobel Galih Christian / 35 / XI RPL 1"
+        android:textColor="@android:color/black"/>
 
     <TextView
         android:id="@+id/textView19"
@@ -55,7 +60,8 @@
         android:layout_alignBottom="@+id/textView11"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="42dp"
-        android:text="Application By :"/>
+        android:text="Application By :"
+        android:textColor="@android:color/black"/>
 
     <ImageView
         android:id="@+id/imageView3"
@@ -73,6 +79,7 @@
         android:layout_below="@+id/textView18"
         android:layout_marginTop="53dp"
         android:text="Aplikasi ini bertujuan untuk membantu masyarakat agar dapat lebih memanfaatkan tanaman sekitarnya menjadi ramuan atau obat tradisional.  Aplikasi ini juga berguna bagi mereka yang alergi terhadap obat kimia dan menghemat pengeluaran."
+        android:textColor="@android:color/black"
         />
 
 </RelativeLayout>
