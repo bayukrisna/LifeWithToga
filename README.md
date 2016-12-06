@@ -17,6 +17,8 @@ LifeWithToga
 - Aplikasi ini dilengkapi dengan fitur informasi gizi beserta sumber gizinya.
 
 ### C. Screenshoot Aplikasi
+App Intro <br>
+![2.png](https://s17.postimg.org/yjvhmdxgf/appintro.png) <br>
 Mainmenu <br>
 ![Screenshot_1479658341.png](https://s16.postimg.org/7idypliat/menu.png)<br>
 List Informasi Penyakit <br>
@@ -30,14 +32,13 @@ Daftar Informasi Gizi <br>
 Halaman About <br>
 ![2.png](https://s12.postimg.org/c6xpigr0d/about.png)
 
-
 ### D. Video Aplikasi
 <a href="https://www.youtube.com/watch?v=MsRl2dDtplU&feature=youtu.be
 " target="_blank"><img src="https://s15.postimg.org/d4ttem6wb/Capture.png" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ### E. Link File APK dari Aplikasi
-<p> https://drive.google.com/open?id=0ByZQ_ZZSxg3-SGllR2s4cjZQS0U </p> 
+<p> http://www.mediafire.com/file/473b11ofa9ftbtd/LifeWithToga.apk </p> 
 
 ### F. Identitas Masing - Masing Anggota
 #### Anggota 1
