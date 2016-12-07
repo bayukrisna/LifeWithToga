@@ -33,8 +33,8 @@ Halaman About <br>
 ![2.png](https://s12.postimg.org/c6xpigr0d/about.png)
 
 ### D. Video Aplikasi
-<a href="https://www.youtube.com/watch?v=MsRl2dDtplU&feature=youtu.be
-" target="_blank"><img src="https://s15.postimg.org/d4ttem6wb/Capture.png" 
+<a href="https://www.youtube.com/watch?v=o8r4mWaPamQ&feature=youtu.be
+" target="_blank"><img src="https://s12.postimg.org/5dxod8k31/hmm.png" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ### E. Link File APK dari Aplikasi
